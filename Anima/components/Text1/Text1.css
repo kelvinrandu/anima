@@ -1,0 +1,30 @@
+.text-1-1 {
+  background-color: var(--black-squeeze);
+  border-radius: 10px;
+  display: flex;
+  height: 116px;
+  width: 655px;
+}
+
+.proin-ac-quam-et-lec-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-bottom: 18px;
+  margin-left: 20px;
+  margin-right: 36px;
+  margin-top: 20px;
+  width: 599px;
+}
+
+.text-1-1.text-4-2 {
+  height: 88px;
+  margin-top: 25px;
+}
+
+.text-1-1.text-1-2 {
+  left: 1110px;
+  position: absolute;
+  top: 750px;
+}
+

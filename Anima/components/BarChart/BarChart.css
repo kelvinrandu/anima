@@ -1,0 +1,66 @@
+.bar-chart {
+  align-items: flex-end;
+  display: flex;
+  gap: 2px;
+  min-width: 16px;
+}
+
+.group-4 {
+  background-image: url(/static/img/path-15-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 9px;
+  margin-bottom: 0;
+  width: 4px;
+}
+
+.group-6 {
+  align-self: flex-start;
+  background-image: url(/static/img/path-16-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 16px;
+  width: 4px;
+}
+
+.group-8 {
+  background-image: url(/static/img/path-17-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 13px;
+  margin-bottom: 0;
+  width: 4px;
+}
+
+.bar-chart.bar-chart-1,
+.bar-chart.bar-chart-2,
+.bar-chart.bar-chart-3,
+.bar-chart.bar-chart-5,
+.bar-chart.bar-chart-6 {
+  padding: 0 0.0px;
+}
+
+.bar-chart.bar-chart-4 {
+  height: 16px;
+  left: 83px;
+  padding: 0 0.0px;
+  position: absolute;
+  top: 645px;
+}
+
+.bar-chart.bar-chart-7,
+.bar-chart.bar-chart-8,
+.bar-chart.bar-chart-9,
+.bar-chart.bar-chart-10 {
+  justify-content: flex-end;
+}
+
+.bar-chart.bar-chart-11,
+.bar-chart.bar-chart-12 {
+  height: 16px;
+  justify-content: flex-end;
+  left: 175px;
+  position: absolute;
+  top: 816px;
+}
+

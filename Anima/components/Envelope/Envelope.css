@@ -1,0 +1,68 @@
+.envelope-1,
+.envelope-1.envelope,
+.envelope-1.envelope-5,
+.envelope-1.envelope-6,
+.envelope-1.envelope-7,
+.envelope-1.envelope-8 {
+  display: flex;
+  height: 13px;
+  margin-bottom: 3.0px;
+  width: 16.55px;
+}
+
+.group-894-2 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  min-width: 16.55px;
+}
+
+.path-container-16 {
+  height: 13px;
+  position: relative;
+  width: 17px;
+}
+
+.path-998-1 {
+  height: 8px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 17px;
+}
+
+.path-999-1 {
+  height: 9px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 17px;
+}
+
+.envelope-1.envelope-3 .group-894-2 {
+  align-items: flex-start;
+}
+
+.envelope-1.envelope-3 .path-container-16,
+.envelope-1.envelope-2 .path-container-16,
+.envelope-1.envelope-5 .path-container-16,
+.envelope-1.envelope-8 .path-container-16 {
+  margin-top: 0;
+}
+
+.envelope-1.envelope-4 .group-894-2,
+.envelope-1.envelope-6 .group-894-2,
+.envelope-1.envelope-7 .group-894-2,
+.envelope-1.envelope .group-894-2 {
+  padding: 0 0.0px;
+}
+
+.envelope-1.envelope-2 .group-894-2,
+.envelope-1.envelope-5 .group-894-2,
+.envelope-1.envelope-8 .group-894-2 {
+  align-items: flex-start;
+  padding: 0 0.0px;
+}
+

@@ -1,0 +1,15 @@
+.bell-filled {
+  align-items: flex-end;
+  display: flex;
+  height: 60px;
+  justify-content: flex-end;
+  min-width: 60px;
+  padding: 5.0px 8.7px;
+}
+
+.icon-notifications {
+  height: 49px;
+  object-fit: cover;
+  width: 43px;
+}
+

@@ -1,0 +1,25 @@
+.group,
+.group-5,
+.group-7 {
+  align-items: flex-start;
+  background-color: var(--fun-green);
+  border-radius: 33px;
+  box-shadow: 0px 8px 40px #0000000d;
+  display: flex;
+  height: 46px;
+  left: 0;
+  min-width: 158px;
+  padding: 13.5px 65.0px;
+  position: absolute;
+  top: 0;
+}
+
+.sign-up,
+.sign-up-1,
+.sign-up-2 {
+  letter-spacing: -0.03px;
+  line-height: 5px;
+  min-height: 8px;
+  white-space: nowrap;
+}
+

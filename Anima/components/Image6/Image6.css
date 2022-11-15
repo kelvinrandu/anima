@@ -1,0 +1,29 @@
+.image-48 {
+  align-items: flex-end;
+  background-image: url(/static/img/image-change-here-18@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 152px;
+  justify-content: flex-end;
+  left: 33px;
+  position: absolute;
+  top: 116px;
+  width: 152px;
+}
+
+.active-14 {
+  background-color: var(--unmellow-yellow);
+  border: 2px solid;
+  border-color: var(--black);
+  border-radius: 15.5px/15px;
+  height: 30px;
+  margin-bottom: 17px;
+  width: 31px;
+}
+
+.image-48.image-49 {
+  left: 32px;
+  top: 0;
+}
+

@@ -1,0 +1,84 @@
+.coupon-filled {
+  align-items: center;
+  display: flex;
+  height: 24px;
+  min-width: 24px;
+  padding: 0 2.5px;
+}
+
+.coupon-filled_1_ {
+  height: 15px;
+  object-fit: cover;
+  width: 19px;
+}
+
+.coupon-filled.users-three-filled,
+.coupon-filled.users-three-filled-1,
+.coupon-filled.users-three-filled-2,
+.coupon-filled.users-three-filled-3,
+.coupon-filled.users-three-filled-5,
+.coupon-filled.users-three-filled-6,
+.coupon-filled.users-three-filled-7,
+.coupon-filled.users-three-filled-8,
+.coupon-filled.users-three-filled-9,
+.coupon-filled.users-three-filled-10 {
+  align-items: flex-end;
+  padding: 3.0px 2.0px;
+}
+
+.coupon-filled.users-three-filled .coupon-filled_1_,
+.coupon-filled.users-three-filled-1 .coupon-filled_1_,
+.coupon-filled.users-three-filled-2 .coupon-filled_1_,
+.coupon-filled.users-three-filled-3 .coupon-filled_1_,
+.coupon-filled.users-three-filled-4 .coupon-filled_1_,
+.coupon-filled.users-three-filled-5 .coupon-filled_1_,
+.coupon-filled.users-three-filled-6 .coupon-filled_1_,
+.coupon-filled.users-three-filled-7 .coupon-filled_1_,
+.coupon-filled.users-three-filled-8 .coupon-filled_1_,
+.coupon-filled.users-three-filled-9 .coupon-filled_1_,
+.coupon-filled.users-three-filled-10 .coupon-filled_1_,
+.coupon-filled.users-three-filled-11 .coupon-filled_1_,
+.coupon-filled.users-three-filled-13 .coupon-filled_1_,
+.coupon-filled.users-three-filled-12 .coupon-filled_1_ {
+  height: 18px;
+  width: 20px;
+}
+
+.coupon-filled.users-three-filled-4 {
+  align-items: flex-end;
+  left: 83px;
+  padding: 3.0px 2.0px;
+  position: absolute;
+  top: 835px;
+}
+
+.coupon-filled.coupon-filled-4 {
+  left: 83px;
+  position: absolute;
+  top: 707px;
+}
+
+.coupon-filled.users-three-filled-11,
+.coupon-filled.users-three-filled-13 {
+  align-items: flex-end;
+  left: 175px;
+  padding: 3.0px 2.0px;
+  position: absolute;
+  top: 1006px;
+}
+
+.coupon-filled.coupon-filled-11,
+.coupon-filled.coupon-filled-12 {
+  left: 175px;
+  position: absolute;
+  top: 878px;
+}
+
+.coupon-filled.users-three-filled-12 {
+  align-items: flex-end;
+  left: 685px;
+  padding: 3.0px 2.0px;
+  position: absolute;
+  top: 1208px;
+}
+

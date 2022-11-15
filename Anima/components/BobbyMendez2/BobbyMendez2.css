@@ -1,0 +1,53 @@
+.bobby-mendez-3 {
+  display: flex;
+  height: 60px;
+  justify-content: space-between;
+  left: 497px;
+  position: absolute;
+  top: 405px;
+  width: 317px;
+}
+
+.text-27 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-bottom: 2px;
+  margin-top: 3px;
+  width: 244px;
+}
+
+.name-6 {
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: 3.5px;
+  white-space: nowrap;
+  width: 136px;
+}
+
+.hi-when-we-will-start-the-meeting {
+  flex: 1;
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 14px;
+  margin-bottom: -5px;
+  margin-right: -2px;
+  max-height: 22px;
+  opacity: 0.6;
+  white-space: nowrap;
+}
+
+.bobby-mendez-3.bobby-mendez-4,
+.bobby-mendez-3.bobby-mendez-5 {
+  left: 550px;
+  top: 750px;
+}
+
+.bobby-mendez-3.bobby-mendez-5 .name-6 {
+  flex: 1;
+  margin-right: 16px;
+  max-height: 27px;
+  width: unset;
+}
+

@@ -1,0 +1,17 @@
+.image-3-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 1280px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.pexels-kampus-production-5940841 {
+  height: 1310px;
+  margin-left: -44px;
+  margin-top: -19px;
+  object-fit: cover;
+  width: 1964px;
+}
+

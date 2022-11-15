@@ -1,0 +1,119 @@
+.compare-funding {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 1280px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.overlap-group-29 {
+  align-items: flex-start;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  margin-left: -64px;
+  margin-top: -43px;
+  min-height: 1323px;
+  padding: 87px 29px;
+  position: relative;
+  width: 1984px;
+}
+
+.overlap-group-container-46 {
+  align-items: flex-end;
+  align-self: flex-end;
+  display: flex;
+  height: 977px;
+  margin-top: 30px;
+  min-width: 1840px;
+}
+
+.overlap-group2-9 {
+  align-items: flex-start;
+  background-color: var(--blue-chalk);
+  border-radius: 10px;
+  display: flex;
+  gap: 15px;
+  height: 942px;
+  min-width: 505px;
+  padding: 14px 24px;
+  position: relative;
+}
+
+.fun-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 4.5px;
+  min-height: 70px;
+  width: 265px;
+}
+
+.startup-funding-opportunity-2 {
+  letter-spacing: 0;
+  line-height: 18px;
+  min-height: 27px;
+  white-space: nowrap;
+}
+
+.institution-go-fun-2 {
+  letter-spacing: 0;
+  line-height: 14px;
+  min-height: 43px;
+  white-space: nowrap;
+}
+
+.overlap-group4-17 {
+  align-items: flex-start;
+  background-color: var(--blue-chalk);
+  border-radius: 10px;
+  display: flex;
+  gap: 15px;
+  height: 942px;
+  margin-left: 18px;
+  min-width: 536px;
+  padding: 8px 16px;
+  position: relative;
+}
+
+.overlap-group1-13 {
+  align-items: flex-start;
+  background-color: var(--blue-chalk);
+  border-radius: 10px;
+  display: flex;
+  height: 942px;
+  margin-left: 29px;
+  min-width: 26px;
+  padding: 169px 0;
+}
+
+.bg-43 {
+  background-color: var(--evening-sea);
+  border-radius: 10px;
+  height: 182px;
+  width: 26px;
+}
+
+.overlap-group3-17 {
+  align-items: flex-start;
+  align-self: flex-start;
+  background-color: var(--evening-sea);
+  border-radius: 10px;
+  display: flex;
+  height: 969px;
+  margin-left: 36px;
+  min-width: 690px;
+  padding: 34px 30px;
+}
+
+.ad-here {
+  letter-spacing: 0;
+  line-height: 25px;
+  min-height: 37px;
+  min-width: 100px;
+  text-align: center;
+  white-space: nowrap;
+}
+

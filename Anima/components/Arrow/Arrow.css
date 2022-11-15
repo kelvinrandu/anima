@@ -1,0 +1,43 @@
+.arrow {
+  align-items: flex-start;
+  display: flex;
+  height: 8px;
+  justify-content: flex-end;
+  margin-bottom: -3.4px;
+  min-width: 20px;
+}
+
+.line-container-1 {
+  height: 11px;
+  margin-top: -1.41px;
+  position: relative;
+  width: 22px;
+}
+
+.line-11-1 {
+  height: 2px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 22px;
+}
+
+.line-12-1 {
+  height: 7px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 7px;
+}
+
+.line-13-1 {
+  height: 7px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 7px;
+}
+

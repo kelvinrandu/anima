@@ -1,0 +1,56 @@
+.andreea-wade-1 {
+  display: flex;
+  height: 60px;
+  justify-content: space-between;
+  left: 497px;
+  position: absolute;
+  top: 755px;
+  width: 265px;
+}
+
+.text-21 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-bottom: 0;
+  margin-top: 5.0px;
+  width: 192px;
+}
+
+.andreea-wade-2 {
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: 3.5px;
+  white-space: nowrap;
+  width: 139px;
+}
+
+.looks-great-lets-finished-it {
+  flex: 1;
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 14px;
+  margin-bottom: -5px;
+  margin-right: -2px;
+  max-height: 22px;
+  opacity: 0.6;
+  white-space: nowrap;
+}
+
+.andreea-wade-1.andreea-wade-3,
+.andreea-wade-1.andreea-wade-5 {
+  left: 550px;
+  top: 1110px;
+}
+
+.andreea-wade-1.andreea-wade-3 .text-21,
+.andreea-wade-1.andreea-wade-5 .text-21 {
+  margin-bottom: unset;
+  margin-top: 5px;
+}
+
+.andreea-wade-1.andreea-wade-5 .andreea-wade-2 {
+  width: 117px;
+}
+

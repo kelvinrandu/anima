@@ -1,0 +1,432 @@
+.application-funding {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 1280px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.overlap-group32-1 {
+  align-items: flex-end;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  margin-left: -64px;
+  margin-top: -43px;
+  min-height: 1323px;
+  padding: 38px 28px;
+  position: relative;
+  width: 1984px;
+}
+
+.flex-row-124 {
+  align-items: flex-start;
+  display: flex;
+  gap: 12px;
+  height: 81px;
+  margin-top: 10px;
+  min-width: 1841px;
+}
+
+.flex-row-125 {
+  align-items: flex-end;
+  align-self: flex-end;
+  display: flex;
+  gap: 37px;
+  height: 80px;
+  min-width: 1109px;
+  position: relative;
+}
+
+.flex-col-25 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 80px;
+  width: 232px;
+}
+
+.type-of-funding-1 {
+  letter-spacing: 0;
+  line-height: 20px;
+  min-height: 30px;
+  white-space: nowrap;
+}
+
+.overlap-group34-1 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 7px;
+  display: flex;
+  gap: 133px;
+  height: 50px;
+  justify-content: flex-end;
+  min-width: 232px;
+  padding: 6.5px 13px;
+}
+
+.grunt,
+.ng-os {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 18px;
+  min-height: 27px;
+  min-width: 53px;
+  white-space: nowrap;
+}
+
+.polygon-6 {
+  height: 12px;
+  margin-top: 2.0px;
+  object-fit: cover;
+  width: 17px;
+}
+
+.flex-col-26 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 80px;
+  width: 720px;
+}
+
+.flex-row-126 {
+  align-items: flex-start;
+  display: flex;
+  height: 30px;
+  min-width: 575px;
+}
+
+.general-area-of-funding {
+  letter-spacing: 0;
+  line-height: 20px;
+  min-height: 30px;
+  min-width: 244px;
+  white-space: nowrap;
+}
+
+.location-2 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 68px;
+  min-height: 30px;
+  min-width: 87px;
+  white-space: nowrap;
+}
+
+.eligibility {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 89px;
+  min-height: 30px;
+  white-space: nowrap;
+}
+
+.overlap-group-container-40 {
+  align-items: flex-start;
+  display: flex;
+  gap: 12px;
+  min-width: 720px;
+}
+
+.overlap-group49-1 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 7px;
+  display: flex;
+  gap: 71px;
+  height: 50px;
+  justify-content: flex-end;
+  min-width: 232px;
+  padding: 6.5px 13px;
+}
+
+.agriculture {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 18px;
+  min-height: 27px;
+  min-width: 102px;
+  white-space: nowrap;
+}
+
+.overlap-group48-1 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 7px;
+  display: flex;
+  gap: 75px;
+  height: 50px;
+  justify-content: flex-end;
+  min-width: 232px;
+  padding: 6.5px 13px;
+}
+
+.east-africa {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 18px;
+  min-height: 27px;
+  min-width: 98px;
+  white-space: nowrap;
+}
+
+.overlap-group46-1 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 7px;
+  display: flex;
+  gap: 120px;
+  height: 50px;
+  justify-content: flex-end;
+  min-width: 232px;
+  padding: 6.5px 13px;
+}
+
+.flex-row-127 {
+  align-items: flex-start;
+  display: flex;
+  gap: 18px;
+  height: 1028px;
+  margin-right: 1px;
+  margin-top: 30px;
+  min-width: 1838px;
+}
+
+.group-container-4 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 1028px;
+  position: relative;
+  width: 1294px;
+}
+
+.overlap-group-container-41 {
+  height: 165px;
+  margin-right: 9.0px;
+  position: relative;
+  width: 1285px;
+}
+
+.overlap-group-21 {
+  height: 165px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1285px;
+}
+
+.bg-30,
+.bg-31,
+.bg-32,
+.bg-33 {
+  background-color: var(--blue-chalk);
+  border-radius: 10px;
+  height: 80px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1194px;
+}
+
+.institution-go-fun {
+  left: 85px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 42px;
+  white-space: nowrap;
+}
+
+.startup-funding-opportunity {
+  left: 85px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+}
+
+.grunteligibility-east-africa {
+  left: 653px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 38px;
+  white-space: nowrap;
+}
+
+.type-of-funding {
+  left: 653px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+}
+
+.september-30th-2022 {
+  left: 906px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 44px;
+  white-space: nowrap;
+}
+
+.application-deadline {
+  left: 906px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 18px;
+  white-space: nowrap;
+}
+
+.area-of-funding-agricultur {
+  left: 368px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 37px;
+  white-space: nowrap;
+}
+
+.amount-10000 {
+  left: 368px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+}
+
+.overlap-group-22 {
+  align-items: flex-end;
+  background-color: var(--eden);
+  border-radius: 33px;
+  box-shadow: 0px 8px 40px #0000000d;
+  display: flex;
+  height: 14px;
+  justify-content: flex-end;
+  left: 1210px;
+  min-width: 72px;
+  padding: 0 21.0px;
+  position: absolute;
+  top: 12px;
+}
+
+.never-received-or-fo-40 {
+  letter-spacing: -0.04px;
+  line-height: 8px;
+  margin-bottom: -0.5px;
+  min-height: 13px;
+  min-width: 26px;
+  white-space: nowrap;
+}
+
+.overlap-group-23 {
+  border-radius: 33px;
+  height: 14px;
+  left: 1210px;
+  position: absolute;
+  top: 29px;
+  width: 72px;
+}
+
+.never-received-or-fo-41 {
+  left: 22px;
+  letter-spacing: -0.04px;
+  line-height: 8px;
+  position: absolute;
+  top: 1px;
+  white-space: nowrap;
+}
+
+.overlap-group-24 {
+  align-items: flex-end;
+  background-color: var(--red);
+  border-radius: 33px;
+  box-shadow: 0px 8px 40px #0000000d;
+  display: flex;
+  height: 14px;
+  justify-content: flex-end;
+  left: 1211px;
+  min-width: 72px;
+  padding: 0 22.5px;
+  position: absolute;
+  top: 46px;
+}
+
+.never-received-or-fo-42 {
+  letter-spacing: -0.04px;
+  line-height: 8px;
+  margin-bottom: -0.5px;
+  min-height: 13px;
+  min-width: 22px;
+  white-space: nowrap;
+}
+
+.overlap-group-container-42 {
+  height: 165px;
+  margin-right: 3.0px;
+  margin-top: 7px;
+  position: relative;
+  width: 1285px;
+}
+
+.overlap-group-container-43 {
+  height: 165px;
+  margin-left: 3.0px;
+  margin-top: 6px;
+  position: relative;
+  width: 1285px;
+}
+
+.overlap-group-container-44 {
+  height: 165px;
+  margin-left: 9.0px;
+  margin-top: 7px;
+  position: relative;
+  width: 1285px;
+}
+
+.overlap-group53 {
+  align-items: flex-start;
+  background-color: var(--blue-chalk);
+  border-radius: 10px;
+  display: flex;
+  height: 983px;
+  min-width: 26px;
+  padding: 169px 0;
+}
+
+.bg-34 {
+  background-color: var(--evening-sea);
+  border-radius: 10px;
+  height: 182px;
+  width: 26px;
+}
+
+.overlap-group52 {
+  align-items: flex-start;
+  background-color: var(--evening-sea);
+  border-radius: 10px;
+  display: flex;
+  height: 969px;
+  min-width: 482px;
+  padding: 17px 22px;
+}
+
+.funding-details {
+  letter-spacing: 0;
+  line-height: 25px;
+  min-height: 37px;
+  min-width: 204px;
+  text-align: center;
+  white-space: nowrap;
+}
+

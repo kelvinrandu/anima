@@ -1,0 +1,87 @@
+.image-3,
+.image-3.image-2,
+.image-3.image-2-2,
+.image-3.image-2-3,
+.image-3.image-2-4,
+.image-3.image-2-5 {
+  align-items: flex-end;
+  align-self: flex-end;
+  background-image: url(/static/img/image-change-here-15@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 100px;
+  justify-content: flex-end;
+  width: 100px;
+}
+
+.active-1 {
+  background-color: var(--unmellow-yellow);
+  border: 2px solid;
+  border-color: var(--black);
+  border-radius: 10px;
+  height: 20px;
+  margin-bottom: 11px;
+  width: 20px;
+}
+
+.image-3.image-4 {
+  align-self: unset;
+  left: 188px;
+  position: absolute;
+  top: 151px;
+}
+
+.image-3.image-2-1 .active-1,
+.image-3.image-8 .active-1,
+.image-3.image-2-2 .active-1,
+.image-3.image-2-3 .active-1,
+.image-3.image-2-4 .active-1,
+.image-3.image-2-5 .active-1,
+.image-3.image-2 .active-1 {
+  border-color: var(--ebony-clay-2);
+}
+
+.image-3.image-8 {
+  align-self: unset;
+  left: 958px;
+  position: absolute;
+  top: 546px;
+}
+
+.image-3.image-9 {
+  align-self: unset;
+  left: 1196px;
+  position: absolute;
+  top: 546px;
+}
+
+.image-3.image-9 .active-1 {
+  background-color: var(--blaze-orange);
+  border-color: var(--ebony-clay-2);
+}
+
+.image-3.image-10 {
+  align-self: unset;
+  left: 1425px;
+  position: absolute;
+  top: 546px;
+}
+
+.image-3.image-10 .active-1 {
+  background-color: #ff0094;
+  border-color: var(--ebony-clay-2);
+}
+
+.image-3.image-11 {
+  align-self: unset;
+  left: 1654px;
+  position: absolute;
+  top: 546px;
+}
+
+.image-3.image-11 .active-1 {
+  background-color: #00ff2a;
+  border-color: var(--ebony-clay-2);
+}
+

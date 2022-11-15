@@ -1,0 +1,119 @@
+.search-27 {
+  align-items: flex-end;
+  background-color: var(--fun-green);
+  border: 1px solid;
+  border-color: var(--french-gray);
+  border-radius: 30px;
+  display: flex;
+  gap: 15.5px;
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 575px;
+}
+
+.search-1 {
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 18.51px;
+  margin-bottom: -9.1px;
+  margin-left: 30px;
+  width: 18.53px;
+}
+
+.search-2 {
+  height: 30px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -10px;
+  white-space: nowrap;
+  width: 72px;
+}
+
+.search-27.search-3,
+.search-27.search-15,
+.search-27.search-21,
+.search-27.search-24 {
+  align-items: flex-end;
+  background-color: var(--fun-green);
+  border: 1px solid;
+  border-color: var(--french-gray);
+  border-radius: 30px;
+  display: flex;
+  gap: 15.5px;
+  height: 60px;
+  left: 33px;
+  position: absolute;
+  top: 28px;
+  width: 575px;
+}
+
+.search-27.search-6 {
+  align-items: flex-end;
+  align-self: flex-end;
+  background-color: var(--fun-green);
+  border: 1px solid;
+  border-color: var(--french-gray);
+  border-radius: 30px;
+  display: flex;
+  gap: 15.5px;
+  height: 60px;
+  width: 575px;
+}
+
+.search-27.search-6 .search-1,
+.search-27.search-9 .search-1,
+.search-27.search-18 .search-1,
+.search-27.search-21 .search-1 {
+  height: 18.51px;
+}
+
+.search-27.search-9 {
+  align-items: flex-end;
+  background-color: var(--fun-green);
+  border: 1px solid;
+  border-color: var(--french-gray);
+  border-radius: 30px;
+  display: flex;
+  gap: 15.5px;
+  height: 60px;
+  left: 467px;
+  position: absolute;
+  top: 28px;
+  width: 575px;
+}
+
+.search-27.search-12 {
+  align-items: flex-end;
+  background-color: var(--fun-green);
+  border: 1px solid;
+  border-color: var(--french-gray);
+  border-radius: 30px;
+  display: flex;
+  flex: 1;
+  gap: 15.5px;
+  width: 575px;
+}
+
+.search-27.search-12 .search-1 {
+  height: 18.51px;
+}
+
+.search-27.search-18 {
+  align-items: flex-end;
+  background-color: var(--fun-green);
+  border: 1px solid;
+  border-color: var(--french-gray);
+  border-radius: 30px;
+  display: flex;
+  gap: 15.5px;
+  height: 60px;
+  margin-left: 32.0px;
+  width: 575px;
+}
+
+.search-27.search-24 .search-1 {
+  height: 18.51px;
+}
+

@@ -1,0 +1,68 @@
+.user {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-bottom: 0;
+  margin-left: 0;
+  width: 11.2px;
+}
+
+.path-9 {
+  flex: 1;
+  height: 6.47px;
+  margin-left: 2.3px;
+  margin-right: 2.5px;
+  margin-top: 0;
+  max-height: 6.47px;
+  object-fit: cover;
+}
+
+.path-10 {
+  flex: 1;
+  height: 6.94px;
+  margin-left: 0;
+  margin-right: 0;
+  max-height: 6.94px;
+  object-fit: cover;
+}
+
+.user.user-1,
+.user.user-3,
+.user.user-5,
+.user.user-7,
+.user.user-9,
+.user.user-11,
+.user.user-13,
+.user.user-15,
+.user.user-17,
+.user.user-19,
+.user.user-21,
+.user.user-23,
+.user.user-25 {
+  margin-left: unset;
+}
+
+.user.user-6 .path-10,
+.user.user-8 .path-10,
+.user.user-12 .path-10,
+.user.user-16 .path-10,
+.user.user-18 .path-10,
+.user.user-24 .path-10,
+.user.user-7 .path-10,
+.user.user-9 .path-10,
+.user.user-13 .path-10,
+.user.user-17 .path-10,
+.user.user-19 .path-10,
+.user.user-25 .path-10 {
+  height: 6.94px;
+  margin-bottom: 0;
+  max-height: 6.94px;
+}
+
+.user.user-20 .path-10,
+.user.user-21 .path-10 {
+  height: 6.94px;
+  margin-bottom: 0;
+  max-height: 6.94px;
+}
+

@@ -1,0 +1,162 @@
+.calendar-1 {
+  display: flex;
+  height: 16px;
+  left: 726px;
+  position: absolute;
+  top: 113px;
+  width: 16px;
+}
+
+.group-9-3 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  min-width: 16.09px;
+  padding: 0 0.0px;
+}
+
+.path-container-14 {
+  height: 16px;
+  margin-top: 0;
+  position: relative;
+  width: 16px;
+}
+
+.path-18-3 {
+  height: 2px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 2px;
+}
+
+.path-19-3 {
+  height: 2px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 2px;
+}
+
+.path-20-3 {
+  height: 2px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 2px;
+}
+
+.path-21-3 {
+  height: 2px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 2px;
+}
+
+.path-22-3 {
+  height: 2px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 2px;
+}
+
+.path-23-3 {
+  height: 2px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 2px;
+}
+
+.path-24-2 {
+  height: 15px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 16px;
+}
+
+.path-25-3 {
+  height: 4px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.path-26-3 {
+  height: 4px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.calendar-1.calendar,
+.calendar-1.calendar-7,
+.calendar-1.calendar-3 {
+  left: unset;
+  margin-bottom: 3.0px;
+  position: unset;
+  top: unset;
+}
+
+.calendar-1.calendar-7 .group-9-3,
+.calendar-1.calendar-2 .group-9-3,
+.calendar-1.calendar-4 .group-9-3,
+.calendar-1.calendar .group-9-3,
+.calendar-1.calendar-3 .group-9-3 {
+  align-items: flex-end;
+  padding: 0.0px 0.0px;
+}
+
+.calendar-1.calendar-7 .path-container-14,
+.calendar-1.calendar-2 .path-container-14,
+.calendar-1.calendar-4 .path-container-14,
+.calendar-1.calendar-5 .path-container-14,
+.calendar-1.calendar .path-container-14,
+.calendar-1.calendar-3 .path-container-14 {
+  margin-top: unset;
+}
+
+.calendar-1.calendar-2 {
+  left: unset;
+  margin-bottom: 4.0px;
+  position: unset;
+  top: unset;
+}
+
+.calendar-1.calendar-4 {
+  left: unset;
+  margin-bottom: 9.0px;
+  position: unset;
+  top: unset;
+}
+
+.calendar-1.calendar-5 {
+  left: unset;
+  margin-top: 3.0px;
+  position: unset;
+  top: unset;
+}
+
+.calendar-1.calendar-5 .group-9-3 {
+  padding: 0.0px 0.0px;
+}
+
+.calendar-1.calendar-6 {
+  left: 393px;
+  top: 51px;
+}
+

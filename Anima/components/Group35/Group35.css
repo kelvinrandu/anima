@@ -1,0 +1,93 @@
+.group-35 {
+  align-items: center;
+  display: flex;
+  height: 73px;
+  left: 208px;
+  min-width: 1145px;
+  position: absolute;
+  top: 604px;
+}
+
+.preferredinstitution {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -6px;
+  min-height: 60px;
+  min-width: 105px;
+  white-space: nowrap;
+}
+
+.area-of-study-1 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 66px;
+  margin-top: 13.0px;
+  min-height: 30px;
+  min-width: 138px;
+  white-space: nowrap;
+}
+
+.preferredcertificate {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -5px;
+  margin-left: 67px;
+  min-height: 60px;
+  min-width: 109px;
+  white-space: nowrap;
+}
+
+.level-of-study-1 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 90px;
+  margin-top: 11.0px;
+  min-height: 30px;
+  min-width: 141px;
+  white-space: nowrap;
+}
+
+.major-speciality-1 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 67px;
+  margin-top: 11.0px;
+  min-height: 30px;
+  min-width: 170px;
+  white-space: nowrap;
+}
+
+.overlap-group-8 {
+  align-self: flex-end;
+  height: 68px;
+  margin-bottom: -4.5px;
+  margin-left: 88px;
+  position: relative;
+  width: 104px;
+}
+
+.preferredstart-date {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.ddmmyear-1 {
+  left: 3px;
+  letter-spacing: 0;
+  line-height: 10px;
+  position: absolute;
+  top: 52px;
+  white-space: nowrap;
+}
+
+.group-35.group-35-1 {
+  left: 207px;
+  top: 909px;
+}
+

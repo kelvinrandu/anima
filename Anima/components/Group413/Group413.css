@@ -1,0 +1,87 @@
+.group-41-15 {
+  align-self: center;
+  display: flex;
+  height: 49px;
+  margin-left: 65.0px;
+  margin-top: 49px;
+  width: 1275px;
+}
+
+.navbar-7 {
+  align-items: flex-end;
+  background-color: var(--eden);
+  border-radius: 12px;
+  display: flex;
+  flex: 1;
+  min-width: 1275px;
+  padding: 7.5px 58px;
+}
+
+.navbar-link-applications-7 {
+  letter-spacing: 0;
+  line-height: 16px;
+  min-height: 25px;
+  min-width: 104px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.navbar-link-institution-7 {
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-left: 108px;
+  min-height: 25px;
+  min-width: 82px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.navbar-link-courses-7 {
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-left: 115px;
+  min-height: 25px;
+  min-width: 68px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.navbar-link-library-7 {
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-left: 121px;
+  min-height: 25px;
+  min-width: 56px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.navbar-link-market-7 {
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-left: 156px;
+  min-height: 25px;
+  min-width: 58px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.navbar-link-community-7 {
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-left: 101px;
+  min-height: 25px;
+  min-width: 98px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.group-41-15.group-41-16 {
+  align-self: unset;
+  left: 323px;
+  margin-left: unset;
+  margin-top: unset;
+  position: absolute;
+  top: 44px;
+}
+

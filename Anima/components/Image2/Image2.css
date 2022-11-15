@@ -1,0 +1,16 @@
+.image-2-6 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 1280px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.pexels-andrea-piacquadio-3769021 {
+  height: 1334px;
+  margin-top: -27px;
+  object-fit: cover;
+  width: 2001px;
+}
+

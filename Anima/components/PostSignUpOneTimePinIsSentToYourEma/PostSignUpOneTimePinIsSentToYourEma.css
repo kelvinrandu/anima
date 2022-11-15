@@ -1,0 +1,137 @@
+.post-sign-up-one-time-pin-is-sent-to-your-email-address {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 1280px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.overlap-group1 {
+  align-items: flex-start;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  margin-top: -314px;
+  min-height: 1720px;
+  padding: 525.0px 216px;
+  width: 2579px;
+}
+
+.acts_logo-4 {
+  height: 133px;
+  margin-left: 4px;
+  margin-top: 284px;
+  object-fit: cover;
+  width: 186px;
+}
+
+.never-received-or-fo-container {
+  height: 42px;
+  margin-top: 47px;
+  position: relative;
+  width: 469px;
+}
+
+.never-received-or-fo-5 {
+  left: 0;
+  letter-spacing: -0.16px;
+  line-height: 30px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.overlap-group2-1 {
+  align-items: center;
+  background-color: var(--fun-green);
+  border-radius: 5px;
+  box-shadow: 0px 8px 40px #0000000d;
+  display: flex;
+  gap: 27px;
+  height: 56px;
+  margin-top: 7px;
+  min-width: 534px;
+  padding: 8.5px 26.0px;
+}
+
+.overlap-group-4 {
+  height: 26px;
+  margin-bottom: 2.0px;
+  position: relative;
+  width: 20px;
+}
+
+.rectangle-2 {
+  height: 17px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 20px;
+}
+
+.oval-2 {
+  height: 12px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 13px;
+}
+
+.text-2 {
+  align-self: flex-end;
+  letter-spacing: -0.11px;
+  line-height: 20px;
+  min-height: 29px;
+  min-width: 93px;
+  white-space: nowrap;
+}
+
+.never-received-or-fo-container-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 19px;
+  height: 29px;
+  margin-top: 18px;
+  min-width: 324px;
+}
+
+.never-received-or-fo-6 {
+  letter-spacing: -0.11px;
+  line-height: 20px;
+  min-height: 29px;
+  min-width: 231px;
+  white-space: nowrap;
+}
+
+.never-received-or-fo-7 {
+  color: var(--fun-green);
+  font-family: var(--font-family-sfprotext-regular);
+  font-size: var(--font-size-m);
+  letter-spacing: -0.11px;
+  line-height: 20px;
+  min-height: 29px;
+  white-space: nowrap;
+}
+
+.overlap-group4-3 {
+  border-radius: 33px;
+  height: 46px;
+  margin-left: 0;
+  margin-top: 8px;
+  position: relative;
+  width: 158px;
+}
+
+.never-received-or-fo-8 {
+  left: 46px;
+  letter-spacing: -0.10px;
+  line-height: 19px;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+}
+

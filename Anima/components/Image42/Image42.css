@@ -1,0 +1,62 @@
+.image-13-1 {
+  align-items: flex-end;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  justify-content: flex-end;
+  width: 60px;
+}
+
+.ellipse-60 {
+  background-color: var(--persian-green);
+  border: 2px solid;
+  border-color: var(--ebony-clay-2);
+  border-radius: 8px;
+  height: 16px;
+  margin-bottom: 2.0px;
+  width: 16px;
+}
+
+.image-13-1.image-13-2 .ellipse-60,
+.image-13-1.image-14-1 .ellipse-60,
+.image-13-1.image-14 .ellipse-60,
+.image-13-1.image-15-1 .ellipse-60,
+.image-13-1.image-15 .ellipse-60,
+.image-13-1.image-16 .ellipse-60 {
+  margin-bottom: 2px;
+}
+
+.image-13-1.image-13 .ellipse-60 {
+  margin-bottom: 3.0px;
+}
+
+.image-13-1.image-16 {
+  align-items: flex-end;
+  align-self: flex-end;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 60px;
+  justify-content: flex-end;
+  margin-top: 126px;
+  width: 60px;
+}
+
+.image-13-1.image-17 {
+  align-items: flex-end;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 60px;
+  justify-content: flex-end;
+  left: 1795px;
+  position: absolute;
+  top: 936px;
+  width: 60px;
+}
+
+.image-13-1.image-17 .ellipse-60 {
+  background-color: var(--blaze-orange);
+  margin-bottom: 2px;
+}
+

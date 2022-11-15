@@ -1,0 +1,1732 @@
+.application-scholarship {
+  background-color: var(--white);
+  height: 1280px;
+  overflow: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.pexels-tima-miroshnichenko-5198252-2 {
+  height: 1323px;
+  left: -64px;
+  object-fit: cover;
+  position: absolute;
+  top: -43px;
+  width: 1984px;
+}
+
+.application-scholarship-item {
+  background-color: var(--blue-chalk);
+  border-radius: 10px;
+  height: 80px;
+  left: 53px;
+  position: absolute;
+  top: 214px;
+  width: 1194px;
+}
+
+.institution-univers {
+  left: 138px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 256px;
+  white-space: nowrap;
+}
+
+.the-chris-boris-foundation {
+  left: 138px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 228px;
+  white-space: nowrap;
+}
+
+.partial {
+  left: 706px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 248px;
+  white-space: nowrap;
+}
+
+.type-of-funding-3 {
+  left: 706px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 228px;
+  white-space: nowrap;
+}
+
+.september-30th-2022-2 {
+  left: 959px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 258px;
+  white-space: nowrap;
+}
+
+.application-deadline-2 {
+  left: 959px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 232px;
+  white-space: nowrap;
+}
+
+.group-56 {
+  background-color: var(--eden);
+  border-radius: 33px;
+  box-shadow: 0px 8px 40px #0000000d;
+  height: 14px;
+  left: 1263px;
+  position: absolute;
+  top: 226px;
+  width: 72px;
+}
+
+.never-received-or-fo-46 {
+  left: 1288px;
+  letter-spacing: -0.04px;
+  line-height: 8px;
+  position: absolute;
+  top: 227px;
+  white-space: nowrap;
+}
+
+.never-received-or-fo-47 {
+  left: 1285px;
+  letter-spacing: -0.04px;
+  line-height: 8px;
+  position: absolute;
+  top: 244px;
+  white-space: nowrap;
+}
+
+.group-57 {
+  background-color: var(--red);
+  border-radius: 33px;
+  box-shadow: 0px 8px 40px #0000000d;
+  height: 14px;
+  left: 1264px;
+  position: absolute;
+  top: 260px;
+  width: 72px;
+}
+
+.never-received-or-fo-48 {
+  left: 1291px;
+  letter-spacing: -0.04px;
+  line-height: 8px;
+  position: absolute;
+  top: 261px;
+  white-space: nowrap;
+}
+
+.bg-44 {
+  background-color: var(--blue-chalk);
+  border-radius: 10px;
+  height: 983px;
+  left: 1365px;
+  position: absolute;
+  top: 214px;
+  width: 26px;
+}
+
+.bg-45 {
+  background-color: var(--evening-sea);
+  border-radius: 10px;
+  height: 182px;
+  left: 1365px;
+  position: absolute;
+  top: 383px;
+  width: 26px;
+}
+
+.bg-46 {
+  background-color: var(--evening-sea);
+  border-radius: 10px;
+  height: 969px;
+  left: 1409px;
+  position: absolute;
+  top: 214px;
+  width: 482px;
+}
+
+.scholarship-details {
+  left: 1435px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  top: 233px;
+  white-space: nowrap;
+}
+
+.doctoratearea-of-study-engineering {
+  left: 421px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 254px;
+  white-space: nowrap;
+}
+
+.level-of-study-8 {
+  left: 421px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 228px;
+  white-space: nowrap;
+}
+
+.rectangle-44-3 {
+  background-color: var(--white);
+  border-radius: 7px;
+  height: 50px;
+  left: 928px;
+  position: absolute;
+  top: 134px;
+  width: 232px;
+}
+
+.undergraduate-4 {
+  left: 957px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 150px;
+  white-space: nowrap;
+}
+
+.rectangle-139 {
+  background-color: var(--white);
+  border-radius: 7px;
+  height: 50px;
+  left: 1172px;
+  position: absolute;
+  top: 133px;
+  width: 232px;
+}
+
+.gis-2 {
+  left: 1201px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 150px;
+  white-space: nowrap;
+}
+
+.level-of-study-20 {
+  left: 928px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 104px;
+  white-space: nowrap;
+}
+
+.general-area-of-study-2 {
+  left: 1172px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 103px;
+  white-space: nowrap;
+}
+
+.rectangle-140 {
+  background-color: var(--white);
+  border-radius: 7px;
+  height: 50px;
+  left: 1416px;
+  position: absolute;
+  top: 133px;
+  width: 232px;
+}
+
+.mapping-2 {
+  left: 1445px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 150px;
+  white-space: nowrap;
+}
+
+.specific-area-of-study-2 {
+  left: 1416px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 103px;
+  white-space: nowrap;
+}
+
+.rectangle-141 {
+  background-color: var(--white);
+  border-radius: 7px;
+  height: 50px;
+  left: 1660px;
+  position: absolute;
+  top: 133px;
+  width: 232px;
+}
+
+.hybrid-15 {
+  left: 1689px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 150px;
+  white-space: nowrap;
+}
+
+.mode-of-study-5 {
+  left: 1660px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 103px;
+  white-space: nowrap;
+}
+
+.application-scholarship-item-1 {
+  background-color: var(--blue-chalk);
+  border-radius: 10px;
+  height: 80px;
+  left: 53px;
+  position: absolute;
+  top: 300px;
+  width: 1194px;
+}
+
+.institution-univers-1 {
+  left: 138px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 341px;
+  white-space: nowrap;
+}
+
+.the-chris-boris-foundation-1 {
+  left: 138px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 314px;
+  white-space: nowrap;
+}
+
+.partial-1 {
+  left: 706px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 334px;
+  white-space: nowrap;
+}
+
+.type-of-funding-4 {
+  left: 706px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 313px;
+  white-space: nowrap;
+}
+
+.september-30th-2022-3 {
+  left: 959px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 343px;
+  white-space: nowrap;
+}
+
+.application-deadline-3 {
+  left: 959px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 318px;
+  white-space: nowrap;
+}
+
+.group-58 {
+  background-color: var(--eden);
+  border-radius: 33px;
+  box-shadow: 0px 8px 40px #0000000d;
+  height: 14px;
+  left: 1263px;
+  position: absolute;
+  top: 312px;
+  width: 72px;
+}
+
+.never-received-or-fo-49 {
+  left: 1288px;
+  letter-spacing: -0.04px;
+  line-height: 8px;
+  position: absolute;
+  top: 313px;
+  white-space: nowrap;
+}
+
+.never-received-or-fo-50 {
+  left: 1285px;
+  letter-spacing: -0.04px;
+  line-height: 8px;
+  position: absolute;
+  top: 330px;
+  white-space: nowrap;
+}
+
+.group-59 {
+  background-color: var(--red);
+  border-radius: 33px;
+  box-shadow: 0px 8px 40px #0000000d;
+  height: 14px;
+  left: 1264px;
+  position: absolute;
+  top: 346px;
+  width: 72px;
+}
+
+.never-received-or-fo-51 {
+  left: 1291px;
+  letter-spacing: -0.04px;
+  line-height: 8px;
+  position: absolute;
+  top: 347px;
+  white-space: nowrap;
+}
+
+.doctoratearea-of-study-engineering-1 {
+  left: 421px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 340px;
+  white-space: nowrap;
+}
+
+.level-of-study-9 {
+  left: 421px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 313px;
+  white-space: nowrap;
+}
+
+.application-scholarship-item-2 {
+  background-color: var(--blue-chalk);
+  border-radius: 10px;
+  height: 80px;
+  left: 53px;
+  position: absolute;
+  top: 386px;
+  width: 1194px;
+}
+
+.institution-univers-2 {
+  left: 138px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 427px;
+  white-space: nowrap;
+}
+
+.the-chris-boris-foundation-2 {
+  left: 138px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 400px;
+  white-space: nowrap;
+}
+
+.partial-2 {
+  left: 706px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 420px;
+  white-space: nowrap;
+}
+
+.type-of-funding-5 {
+  left: 706px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 399px;
+  white-space: nowrap;
+}
+
+.september-30th-2022-4 {
+  left: 959px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 429px;
+  white-space: nowrap;
+}
+
+.application-deadline-4 {
+  left: 959px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 404px;
+  white-space: nowrap;
+}
+
+.group-60 {
+  background-color: var(--eden);
+  border-radius: 33px;
+  box-shadow: 0px 8px 40px #0000000d;
+  height: 14px;
+  left: 1263px;
+  position: absolute;
+  top: 398px;
+  width: 72px;
+}
+
+.never-received-or-fo-52 {
+  left: 1288px;
+  letter-spacing: -0.04px;
+  line-height: 8px;
+  position: absolute;
+  top: 399px;
+  white-space: nowrap;
+}
+
+.never-received-or-fo-53 {
+  left: 1285px;
+  letter-spacing: -0.04px;
+  line-height: 8px;
+  position: absolute;
+  top: 416px;
+  white-space: nowrap;
+}
+
+.group-61 {
+  background-color: var(--red);
+  border-radius: 33px;
+  box-shadow: 0px 8px 40px #0000000d;
+  height: 14px;
+  left: 1264px;
+  position: absolute;
+  top: 432px;
+  width: 72px;
+}
+
+.never-received-or-fo-54 {
+  left: 1291px;
+  letter-spacing: -0.04px;
+  line-height: 8px;
+  position: absolute;
+  top: 433px;
+  white-space: nowrap;
+}
+
+.doctoratearea-of-study-engineering-2 {
+  left: 421px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 426px;
+  white-space: nowrap;
+}
+
+.level-of-study-10 {
+  left: 421px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 399px;
+  white-space: nowrap;
+}
+
+.application-scholarship-item-3 {
+  background-color: var(--blue-chalk);
+  border-radius: 10px;
+  height: 80px;
+  left: 53px;
+  position: absolute;
+  top: 472px;
+  width: 1194px;
+}
+
+.institution-univers-3 {
+  left: 138px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 513px;
+  white-space: nowrap;
+}
+
+.the-chris-boris-foundation-3 {
+  left: 138px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 486px;
+  white-space: nowrap;
+}
+
+.partial-3 {
+  left: 706px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 506px;
+  white-space: nowrap;
+}
+
+.type-of-funding-6 {
+  left: 706px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 485px;
+  white-space: nowrap;
+}
+
+.september-30th-2022-5 {
+  left: 959px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 515px;
+  white-space: nowrap;
+}
+
+.application-deadline-5 {
+  left: 959px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 490px;
+  white-space: nowrap;
+}
+
+.group-62 {
+  background-color: var(--eden);
+  border-radius: 33px;
+  box-shadow: 0px 8px 40px #0000000d;
+  height: 14px;
+  left: 1263px;
+  position: absolute;
+  top: 484px;
+  width: 72px;
+}
+
+.never-received-or-fo-55 {
+  left: 1288px;
+  letter-spacing: -0.04px;
+  line-height: 8px;
+  position: absolute;
+  top: 485px;
+  white-space: nowrap;
+}
+
+.never-received-or-fo-56 {
+  left: 1285px;
+  letter-spacing: -0.04px;
+  line-height: 8px;
+  position: absolute;
+  top: 502px;
+  white-space: nowrap;
+}
+
+.group-63 {
+  background-color: var(--red);
+  border-radius: 33px;
+  box-shadow: 0px 8px 40px #0000000d;
+  height: 14px;
+  left: 1264px;
+  position: absolute;
+  top: 518px;
+  width: 72px;
+}
+
+.never-received-or-fo-57 {
+  left: 1291px;
+  letter-spacing: -0.04px;
+  line-height: 8px;
+  position: absolute;
+  top: 519px;
+  white-space: nowrap;
+}
+
+.doctoratearea-of-study-engineering-3 {
+  left: 421px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 512px;
+  white-space: nowrap;
+}
+
+.level-of-study-11 {
+  left: 421px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 485px;
+  white-space: nowrap;
+}
+
+.application-scholarship-item-4 {
+  background-color: var(--blue-chalk);
+  border-radius: 10px;
+  height: 80px;
+  left: 51px;
+  position: absolute;
+  top: 558px;
+  width: 1194px;
+}
+
+.institution-univers-4 {
+  left: 136px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 599px;
+  white-space: nowrap;
+}
+
+.the-chris-boris-foundation-4 {
+  left: 136px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 572px;
+  white-space: nowrap;
+}
+
+.partial-4 {
+  left: 704px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 592px;
+  white-space: nowrap;
+}
+
+.type-of-funding-7 {
+  left: 704px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 571px;
+  white-space: nowrap;
+}
+
+.september-30th-2022-6 {
+  left: 957px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 601px;
+  white-space: nowrap;
+}
+
+.application-deadline-6 {
+  left: 957px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 576px;
+  white-space: nowrap;
+}
+
+.group-64 {
+  background-color: var(--eden);
+  border-radius: 33px;
+  box-shadow: 0px 8px 40px #0000000d;
+  height: 14px;
+  left: 1261px;
+  position: absolute;
+  top: 570px;
+  width: 72px;
+}
+
+.never-received-or-fo-58 {
+  left: 1283px;
+  letter-spacing: -0.04px;
+  line-height: 8px;
+  position: absolute;
+  top: 588px;
+  white-space: nowrap;
+}
+
+.group-65 {
+  background-color: var(--red);
+  border-radius: 33px;
+  box-shadow: 0px 8px 40px #0000000d;
+  height: 14px;
+  left: 1262px;
+  position: absolute;
+  top: 604px;
+  width: 72px;
+}
+
+.never-received-or-fo-59 {
+  left: 1289px;
+  letter-spacing: -0.04px;
+  line-height: 8px;
+  position: absolute;
+  top: 605px;
+  white-space: nowrap;
+}
+
+.doctoratearea-of-study-engineering-4 {
+  left: 419px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 598px;
+  white-space: nowrap;
+}
+
+.level-of-study-12 {
+  left: 419px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 571px;
+  white-space: nowrap;
+}
+
+.application-scholarship-item-5 {
+  background-color: var(--blue-chalk);
+  border-radius: 10px;
+  height: 80px;
+  left: 51px;
+  position: absolute;
+  top: 644px;
+  width: 1194px;
+}
+
+.institution-univers-5 {
+  left: 136px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 685px;
+  white-space: nowrap;
+}
+
+.the-chris-boris-foundation-5 {
+  left: 136px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 658px;
+  white-space: nowrap;
+}
+
+.partial-5 {
+  left: 704px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 678px;
+  white-space: nowrap;
+}
+
+.type-of-funding-8 {
+  left: 704px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 657px;
+  white-space: nowrap;
+}
+
+.september-30th-2022-7 {
+  left: 957px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 687px;
+  white-space: nowrap;
+}
+
+.application-deadline-7 {
+  left: 957px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 662px;
+  white-space: nowrap;
+}
+
+.group-66 {
+  background-color: var(--eden);
+  border-radius: 33px;
+  box-shadow: 0px 8px 40px #0000000d;
+  height: 14px;
+  left: 1261px;
+  position: absolute;
+  top: 656px;
+  width: 72px;
+}
+
+.never-received-or-fo-60 {
+  left: 1286px;
+  letter-spacing: -0.04px;
+  line-height: 8px;
+  position: absolute;
+  top: 657px;
+  white-space: nowrap;
+}
+
+.never-received-or-fo-61 {
+  left: 1283px;
+  letter-spacing: -0.04px;
+  line-height: 8px;
+  position: absolute;
+  top: 674px;
+  white-space: nowrap;
+}
+
+.group-67 {
+  background-color: var(--red);
+  border-radius: 33px;
+  box-shadow: 0px 8px 40px #0000000d;
+  height: 14px;
+  left: 1262px;
+  position: absolute;
+  top: 690px;
+  width: 72px;
+}
+
+.never-received-or-fo-62 {
+  left: 1289px;
+  letter-spacing: -0.04px;
+  line-height: 8px;
+  position: absolute;
+  top: 691px;
+  white-space: nowrap;
+}
+
+.doctoratearea-of-study-engineering-5 {
+  left: 419px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 684px;
+  white-space: nowrap;
+}
+
+.level-of-study-13 {
+  left: 419px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 657px;
+  white-space: nowrap;
+}
+
+.application-scholarship-item-6 {
+  background-color: var(--blue-chalk);
+  border-radius: 10px;
+  height: 80px;
+  left: 51px;
+  position: absolute;
+  top: 730px;
+  width: 1194px;
+}
+
+.institution-univers-6 {
+  left: 136px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 771px;
+  white-space: nowrap;
+}
+
+.the-chris-boris-foundation-6 {
+  left: 136px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 744px;
+  white-space: nowrap;
+}
+
+.partial-6 {
+  left: 704px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 764px;
+  white-space: nowrap;
+}
+
+.type-of-funding-9 {
+  left: 704px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 743px;
+  white-space: nowrap;
+}
+
+.september-30th-2022-8 {
+  left: 957px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 773px;
+  white-space: nowrap;
+}
+
+.application-deadline-8 {
+  left: 957px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 748px;
+  white-space: nowrap;
+}
+
+.group-68 {
+  background-color: var(--eden);
+  border-radius: 33px;
+  box-shadow: 0px 8px 40px #0000000d;
+  height: 14px;
+  left: 1261px;
+  position: absolute;
+  top: 742px;
+  width: 72px;
+}
+
+.never-received-or-fo-63 {
+  left: 1286px;
+  letter-spacing: -0.04px;
+  line-height: 8px;
+  position: absolute;
+  top: 743px;
+  white-space: nowrap;
+}
+
+.never-received-or-fo-64 {
+  left: 1283px;
+  letter-spacing: -0.04px;
+  line-height: 8px;
+  position: absolute;
+  top: 760px;
+  white-space: nowrap;
+}
+
+.group-69 {
+  background-color: var(--red);
+  border-radius: 33px;
+  box-shadow: 0px 8px 40px #0000000d;
+  height: 14px;
+  left: 1262px;
+  position: absolute;
+  top: 776px;
+  width: 72px;
+}
+
+.never-received-or-fo-65 {
+  left: 1289px;
+  letter-spacing: -0.04px;
+  line-height: 8px;
+  position: absolute;
+  top: 777px;
+  white-space: nowrap;
+}
+
+.doctoratearea-of-study-engineering-6 {
+  left: 419px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 770px;
+  white-space: nowrap;
+}
+
+.level-of-study-14 {
+  left: 419px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 743px;
+  white-space: nowrap;
+}
+
+.application-scholarship-item-7 {
+  background-color: var(--blue-chalk);
+  border-radius: 10px;
+  height: 80px;
+  left: 51px;
+  position: absolute;
+  top: 816px;
+  width: 1194px;
+}
+
+.institution-univers-7 {
+  left: 136px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 857px;
+  white-space: nowrap;
+}
+
+.the-chris-boris-foundation-7 {
+  left: 136px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 830px;
+  white-space: nowrap;
+}
+
+.partial-7 {
+  left: 704px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 850px;
+  white-space: nowrap;
+}
+
+.type-of-funding-10 {
+  left: 704px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 829px;
+  white-space: nowrap;
+}
+
+.september-30th-2022-9 {
+  left: 957px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 859px;
+  white-space: nowrap;
+}
+
+.application-deadline-9 {
+  left: 957px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 834px;
+  white-space: nowrap;
+}
+
+.group-70 {
+  background-color: var(--eden);
+  border-radius: 33px;
+  box-shadow: 0px 8px 40px #0000000d;
+  height: 14px;
+  left: 1261px;
+  position: absolute;
+  top: 828px;
+  width: 72px;
+}
+
+.never-received-or-fo-66 {
+  left: 1286px;
+  letter-spacing: -0.04px;
+  line-height: 8px;
+  position: absolute;
+  top: 829px;
+  white-space: nowrap;
+}
+
+.never-received-or-fo-67 {
+  left: 1283px;
+  letter-spacing: -0.04px;
+  line-height: 8px;
+  position: absolute;
+  top: 846px;
+  white-space: nowrap;
+}
+
+.group-71 {
+  background-color: var(--red);
+  border-radius: 33px;
+  box-shadow: 0px 8px 40px #0000000d;
+  height: 14px;
+  left: 1262px;
+  position: absolute;
+  top: 862px;
+  width: 72px;
+}
+
+.never-received-or-fo-68 {
+  left: 1289px;
+  letter-spacing: -0.04px;
+  line-height: 8px;
+  position: absolute;
+  top: 863px;
+  white-space: nowrap;
+}
+
+.doctoratearea-of-study-engineering-7 {
+  left: 419px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 856px;
+  white-space: nowrap;
+}
+
+.level-of-study-15 {
+  left: 419px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 829px;
+  white-space: nowrap;
+}
+
+.application-scholarship-item-8 {
+  background-color: var(--blue-chalk);
+  border-radius: 10px;
+  height: 80px;
+  left: 54px;
+  position: absolute;
+  top: 904px;
+  width: 1194px;
+}
+
+.institution-univers-8 {
+  left: 138px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 945px;
+  white-space: nowrap;
+}
+
+.the-chris-boris-foundation-8 {
+  left: 138px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 918px;
+  white-space: nowrap;
+}
+
+.partial-8 {
+  left: 706px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 938px;
+  white-space: nowrap;
+}
+
+.type-of-funding-11 {
+  left: 706px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 917px;
+  white-space: nowrap;
+}
+
+.september-30th-2022-10 {
+  left: 960px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 947px;
+  white-space: nowrap;
+}
+
+.application-deadline-10 {
+  left: 960px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 922px;
+  white-space: nowrap;
+}
+
+.group-72 {
+  background-color: var(--eden);
+  border-radius: 33px;
+  box-shadow: 0px 8px 40px #0000000d;
+  height: 14px;
+  left: 1263px;
+  position: absolute;
+  top: 916px;
+  width: 72px;
+}
+
+.never-received-or-fo-69 {
+  left: 1288px;
+  letter-spacing: -0.04px;
+  line-height: 8px;
+  position: absolute;
+  top: 917px;
+  white-space: nowrap;
+}
+
+.never-received-or-fo-70 {
+  left: 1286px;
+  letter-spacing: -0.04px;
+  line-height: 8px;
+  position: absolute;
+  top: 934px;
+  white-space: nowrap;
+}
+
+.group-73 {
+  background-color: var(--red);
+  border-radius: 33px;
+  box-shadow: 0px 8px 40px #0000000d;
+  height: 14px;
+  left: 1264px;
+  position: absolute;
+  top: 950px;
+  width: 72px;
+}
+
+.never-received-or-fo-71 {
+  left: 1292px;
+  letter-spacing: -0.04px;
+  line-height: 8px;
+  position: absolute;
+  top: 951px;
+  white-space: nowrap;
+}
+
+.doctoratearea-of-study-engineering-8 {
+  left: 422px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 944px;
+  white-space: nowrap;
+}
+
+.level-of-study-16 {
+  left: 422px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 917px;
+  white-space: nowrap;
+}
+
+.application-scholarship-item-9 {
+  background-color: var(--blue-chalk);
+  border-radius: 10px;
+  height: 80px;
+  left: 54px;
+  position: absolute;
+  top: 990px;
+  width: 1194px;
+}
+
+.institution-univers-9 {
+  left: 138px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 1031px;
+  white-space: nowrap;
+}
+
+.the-chris-boris-foundation-9 {
+  left: 138px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 1004px;
+  white-space: nowrap;
+}
+
+.partial-9 {
+  left: 706px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 1024px;
+  white-space: nowrap;
+}
+
+.type-of-funding-12 {
+  left: 706px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 1003px;
+  white-space: nowrap;
+}
+
+.september-30th-2022-11 {
+  left: 960px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 1033px;
+  white-space: nowrap;
+}
+
+.application-deadline-11 {
+  left: 960px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 1008px;
+  white-space: nowrap;
+}
+
+.group-74 {
+  background-color: var(--eden);
+  border-radius: 33px;
+  box-shadow: 0px 8px 40px #0000000d;
+  height: 14px;
+  left: 1263px;
+  position: absolute;
+  top: 1002px;
+  width: 72px;
+}
+
+.never-received-or-fo-72 {
+  left: 1288px;
+  letter-spacing: -0.04px;
+  line-height: 8px;
+  position: absolute;
+  top: 1003px;
+  white-space: nowrap;
+}
+
+.never-received-or-fo-73 {
+  left: 1286px;
+  letter-spacing: -0.04px;
+  line-height: 8px;
+  position: absolute;
+  top: 1020px;
+  white-space: nowrap;
+}
+
+.group-75 {
+  background-color: var(--red);
+  border-radius: 33px;
+  box-shadow: 0px 8px 40px #0000000d;
+  height: 14px;
+  left: 1264px;
+  position: absolute;
+  top: 1036px;
+  width: 72px;
+}
+
+.never-received-or-fo-74 {
+  left: 1292px;
+  letter-spacing: -0.04px;
+  line-height: 8px;
+  position: absolute;
+  top: 1037px;
+  white-space: nowrap;
+}
+
+.doctoratearea-of-study-engineering-9 {
+  left: 422px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 1030px;
+  white-space: nowrap;
+}
+
+.level-of-study-17 {
+  left: 422px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 1003px;
+  white-space: nowrap;
+}
+
+.application-scholarship-item-10 {
+  background-color: var(--blue-chalk);
+  border-radius: 10px;
+  height: 80px;
+  left: 54px;
+  position: absolute;
+  top: 1076px;
+  width: 1194px;
+}
+
+.institution-univers-10 {
+  left: 138px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 1117px;
+  white-space: nowrap;
+}
+
+.the-chris-boris-foundation-10 {
+  left: 138px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 1090px;
+  white-space: nowrap;
+}
+
+.partial-10 {
+  left: 706px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 1110px;
+  white-space: nowrap;
+}
+
+.type-of-funding-13 {
+  left: 706px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 1089px;
+  white-space: nowrap;
+}
+
+.september-30th-2022-12 {
+  left: 960px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 1119px;
+  white-space: nowrap;
+}
+
+.application-deadline-12 {
+  left: 960px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 1094px;
+  white-space: nowrap;
+}
+
+.group-76 {
+  background-color: var(--eden);
+  border-radius: 33px;
+  box-shadow: 0px 8px 40px #0000000d;
+  height: 14px;
+  left: 1263px;
+  position: absolute;
+  top: 1088px;
+  width: 72px;
+}
+
+.never-received-or-fo-75 {
+  left: 1288px;
+  letter-spacing: -0.04px;
+  line-height: 8px;
+  position: absolute;
+  top: 1089px;
+  white-space: nowrap;
+}
+
+.never-received-or-fo-76 {
+  left: 1286px;
+  letter-spacing: -0.04px;
+  line-height: 8px;
+  position: absolute;
+  top: 1106px;
+  white-space: nowrap;
+}
+
+.group-77 {
+  background-color: var(--red);
+  border-radius: 33px;
+  box-shadow: 0px 8px 40px #0000000d;
+  height: 14px;
+  left: 1264px;
+  position: absolute;
+  top: 1122px;
+  width: 72px;
+}
+
+.never-received-or-fo-77 {
+  left: 1292px;
+  letter-spacing: -0.04px;
+  line-height: 8px;
+  position: absolute;
+  top: 1123px;
+  white-space: nowrap;
+}
+
+.doctoratearea-of-study-engineering-10 {
+  left: 422px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 1116px;
+  white-space: nowrap;
+}
+
+.level-of-study-18 {
+  left: 422px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 1089px;
+  white-space: nowrap;
+}
+
+.application-scholarship-item-11 {
+  background-color: var(--blue-chalk);
+  border-radius: 10px;
+  height: 80px;
+  left: 54px;
+  position: absolute;
+  top: 1162px;
+  width: 1194px;
+}
+
+.institution-univers-11 {
+  left: 138px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 1203px;
+  white-space: nowrap;
+}
+
+.the-chris-boris-foundation-11 {
+  left: 138px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 1176px;
+  white-space: nowrap;
+}
+
+.partial-11 {
+  left: 706px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 1196px;
+  white-space: nowrap;
+}
+
+.type-of-funding-14 {
+  left: 706px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 1175px;
+  white-space: nowrap;
+}
+
+.september-30th-2022-13 {
+  left: 960px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 1205px;
+  white-space: nowrap;
+}
+
+.application-deadline-13 {
+  left: 960px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 1180px;
+  white-space: nowrap;
+}
+
+.group-78 {
+  background-color: var(--eden);
+  border-radius: 33px;
+  box-shadow: 0px 8px 40px #0000000d;
+  height: 14px;
+  left: 1263px;
+  position: absolute;
+  top: 1174px;
+  width: 72px;
+}
+
+.never-received-or-fo-78 {
+  left: 1288px;
+  letter-spacing: -0.04px;
+  line-height: 8px;
+  position: absolute;
+  top: 1175px;
+  white-space: nowrap;
+}
+
+.never-received-or-fo-79 {
+  left: 1286px;
+  letter-spacing: -0.04px;
+  line-height: 8px;
+  position: absolute;
+  top: 1192px;
+  white-space: nowrap;
+}
+
+.group-79 {
+  background-color: var(--red);
+  border-radius: 33px;
+  box-shadow: 0px 8px 40px #0000000d;
+  height: 14px;
+  left: 1264px;
+  position: absolute;
+  top: 1208px;
+  width: 72px;
+}
+
+.never-received-or-fo-80 {
+  left: 1292px;
+  letter-spacing: -0.04px;
+  line-height: 8px;
+  position: absolute;
+  top: 1209px;
+  white-space: nowrap;
+}
+
+.doctoratearea-of-study-engineering-11 {
+  left: 422px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 1202px;
+  white-space: nowrap;
+}
+
+.level-of-study-19 {
+  left: 422px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 1175px;
+  white-space: nowrap;
+}
+

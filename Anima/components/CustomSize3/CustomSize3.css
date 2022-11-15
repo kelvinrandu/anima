@@ -1,0 +1,196 @@
+.custom-size-3 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1280px;
+  padding: 118px 163px;
+  width: 1920px;
+}
+
+.overlap-group1-10 {
+  height: 421px;
+  margin-left: 0;
+  margin-top: 43px;
+  position: relative;
+  width: 416px;
+}
+
+.image-46 {
+  align-items: flex-end;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 416px;
+  justify-content: flex-end;
+  left: 0;
+  position: absolute;
+  top: 5px;
+  width: 416px;
+}
+
+.active-12 {
+  background-color: var(--unmellow-yellow);
+  border: 2px solid;
+  border-color: var(--black);
+  border-radius: 41.5px;
+  height: 83px;
+  margin-bottom: 46px;
+  width: 83px;
+}
+
+.overlap-group2-6 {
+  height: 166px;
+  margin-top: 69px;
+  position: relative;
+  width: 585px;
+}
+
+.name-9 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.nairobi-kenya-2 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 71px;
+  white-space: nowrap;
+}
+
+.email-timothyactscom {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 136px;
+  white-space: nowrap;
+}
+
+.group-container-3 {
+  align-items: flex-start;
+  display: flex;
+  gap: 222px;
+  height: 286px;
+  margin-top: 60px;
+  min-width: 1041px;
+}
+
+.group-27-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+  min-height: 286px;
+  width: 194px;
+}
+
+.institution-9 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: 4px;
+  min-height: 30px;
+  white-space: nowrap;
+}
+
+.area-of-study-4,
+.grade-score-2,
+.level-of-study-4,
+.specific-certificate-2,
+.major-speciality-4,
+.mode-of-study-2,
+.place-5,
+.field-of-practice-2,
+.major-speciality-5,
+.preferred-start-date {
+  letter-spacing: 0;
+  line-height: 20px;
+  min-height: 30px;
+  white-space: nowrap;
+}
+
+.group-976 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  min-height: 274px;
+  width: 195px;
+}
+
+.name-of-company {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 1px;
+  margin-top: 4px;
+  min-height: 30px;
+  white-space: nowrap;
+}
+
+.group-976-item {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 1px;
+  min-height: 30px;
+  white-space: nowrap;
+}
+
+.group-35-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin-top: 11px;
+  min-height: 180px;
+  width: 208px;
+}
+
+.overlap-group-18 {
+  height: 114px;
+  margin-top: 4px;
+  position: relative;
+  width: 208px;
+}
+
+.preferred-institution {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.area-of-study-5 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 28px;
+  white-space: nowrap;
+}
+
+.preferred-certificate {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 56px;
+  white-space: nowrap;
+}
+
+.level-of-study-5 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 84px;
+  white-space: nowrap;
+}
+

@@ -1,0 +1,65 @@
+.group-21-1 {
+  align-items: center;
+  display: flex;
+  height: 61px;
+  left: 207px;
+  min-width: 889px;
+  position: absolute;
+  top: 692px;
+}
+
+.havarduniversity {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -11px;
+  min-height: 60px;
+  min-width: 98px;
+  white-space: nowrap;
+}
+
+.film-production-animation {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -8px;
+  margin-left: 74px;
+  min-height: 60px;
+  min-width: 156px;
+  white-space: nowrap;
+}
+
+.masters {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: 11.0px;
+  margin-left: 49px;
+  min-height: 30px;
+  min-width: 81px;
+  white-space: nowrap;
+}
+
+.post-graduate {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: 11.0px;
+  margin-left: 118px;
+  min-height: 30px;
+  min-width: 145px;
+  white-space: nowrap;
+}
+
+.animation {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: 11.0px;
+  margin-left: 63px;
+  min-height: 30px;
+  min-width: 105px;
+  white-space: nowrap;
+}
+
+.group-21-1.group-21-2 {
+  top: 1012px;
+}
+

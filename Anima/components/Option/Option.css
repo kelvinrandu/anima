@@ -1,0 +1,36 @@
+.option-1,
+.option-1.option {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  min-height: 21px;
+  transform: rotate(90deg);
+  width: 5px;
+}
+
+.ellipse-3 {
+  background-color: var(--manatee);
+  border-radius: 2.5px;
+  height: 5px;
+  width: 5px;
+}
+
+.option-1.option-4 {
+  left: 821px;
+  position: absolute;
+  top: 247px;
+}
+
+.option-1.option-6 {
+  left: 253px;
+  position: absolute;
+  top: -8px;
+}
+
+.option-1.option-7 {
+  left: 1895px;
+  position: absolute;
+  top: 538px;
+}
+

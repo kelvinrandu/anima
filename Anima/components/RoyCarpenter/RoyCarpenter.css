@@ -1,0 +1,30 @@
+.roy-carpenter {
+  align-items: flex-start;
+  background-color: var(--ebony-clay-2);
+  border-radius: 10px;
+  box-shadow: 10px 10px 40px #2a59980d;
+  display: flex;
+  flex-direction: column;
+  left: 1268px;
+  min-height: 363px;
+  padding: 22px 0;
+  position: absolute;
+  top: 516px;
+  width: 330px;
+}
+
+.flex-row-121 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  gap: 157px;
+  height: 108px;
+  margin-right: 8.0px;
+  min-width: 262px;
+  position: relative;
+}
+
+.roy-carpenter.roy-carpenter-1 {
+  left: 1608px;
+}
+

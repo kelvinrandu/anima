@@ -1,0 +1,86 @@
+.pagination {
+  align-items: flex-start;
+  display: flex;
+  gap: 16px;
+  height: 52px;
+  left: 941px;
+  min-width: 398px;
+  position: absolute;
+  top: 1025px;
+}
+
+.number-2 {
+  align-items: center;
+  background-color: var(--eerie-black);
+  border-radius: 12px;
+  display: flex;
+  min-width: 184px;
+}
+
+.overlap-group-13 {
+  align-items: flex-end;
+  background-color: var(--eden);
+  border-radius: 12px;
+  display: flex;
+  height: 52px;
+  justify-content: flex-end;
+  min-width: 52px;
+  padding: 8.5px 21px;
+}
+
+.number-3 {
+  letter-spacing: 0;
+  line-height: 16px;
+  min-height: 25px;
+  min-width: 7px;
+  white-space: nowrap;
+}
+
+.number-4 {
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-left: 18px;
+  margin-top: 10.0px;
+  min-height: 25px;
+  min-width: 11px;
+  white-space: nowrap;
+}
+
+.number-5 {
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-left: 28px;
+  margin-top: 10.0px;
+  min-height: 25px;
+  min-width: 12px;
+  white-space: nowrap;
+}
+
+.number-6 {
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-left: 26px;
+  margin-top: 10.0px;
+  min-height: 25px;
+  min-width: 12px;
+  white-space: nowrap;
+}
+
+.pagination.pagination-1 {
+  height: unset;
+  left: unset;
+  margin-right: 12.0px;
+  position: relative;
+  top: unset;
+}
+
+.pagination.pagination-2 {
+  align-self: center;
+  height: unset;
+  left: unset;
+  margin-left: 17.0px;
+  margin-top: 331px;
+  position: relative;
+  top: unset;
+}
+

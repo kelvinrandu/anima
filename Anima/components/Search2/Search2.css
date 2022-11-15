@@ -1,0 +1,39 @@
+.search-7 {
+  align-items: center;
+  background-color: var(--ebony-clay-2);
+  border: 1px solid;
+  border-color: var(--french-gray);
+  border-radius: 5px;
+  display: flex;
+  gap: 15px;
+  height: 60px;
+  left: 497px;
+  min-width: 340px;
+  padding: 11px 19.0px;
+  position: absolute;
+  top: 150px;
+}
+
+.search-10 {
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 19px;
+  margin-bottom: 1.49px;
+  width: 19px;
+}
+
+.search-13 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 20px;
+  min-height: 30px;
+  min-width: 72px;
+  white-space: nowrap;
+}
+
+.search-7.search-19,
+.search-7.search-28 {
+  left: 550px;
+  top: 487px;
+}
+

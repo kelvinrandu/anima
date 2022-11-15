@@ -1,0 +1,91 @@
+.text-32-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  margin-left: 30px;
+  margin-top: 15px;
+  min-height: 53px;
+  width: 203px;
+}
+
+.name-10 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: 4px;
+  min-height: 30px;
+  white-space: nowrap;
+}
+
+.flex-row-119 {
+  align-items: flex-start;
+  display: flex;
+  gap: 3px;
+  height: 22px;
+  min-width: 203px;
+}
+
+.founder-at {
+  letter-spacing: 0;
+  line-height: 14px;
+  min-height: 22px;
+  min-width: 81px;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.company-name {
+  letter-spacing: 0;
+  line-height: 14px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.text-32-1.text-33 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  left: 958px;
+  min-height: 53px;
+  position: absolute;
+  top: 661px;
+  width: 203px;
+}
+
+.text-32-1.text-34 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  left: 1196px;
+  min-height: 53px;
+  position: absolute;
+  top: 661px;
+  width: 203px;
+}
+
+.text-32-1.text-35 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  left: 1425px;
+  min-height: 53px;
+  position: absolute;
+  top: 661px;
+  width: 203px;
+}
+
+.text-32-1.text-36 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  left: 1654px;
+  min-height: 53px;
+  position: absolute;
+  top: 661px;
+  width: 203px;
+}
+

@@ -1,0 +1,16 @@
+.image-1-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 1280px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.pexels-cottonbro-6208713 {
+  height: 1281px;
+  margin-left: -4px;
+  object-fit: cover;
+  width: 1921px;
+}
+

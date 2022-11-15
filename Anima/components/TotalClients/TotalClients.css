@@ -1,0 +1,97 @@
+.total-clients {
+  align-items: flex-end;
+  background-color: var(--tangaroa);
+  border-radius: 10px;
+  box-shadow: 0px 0px 50px #2a59980d;
+  display: flex;
+  height: 156px;
+  min-width: 305px;
+  padding: 3.9px 30.0px;
+}
+
+.overlap-group-11 {
+  height: 117px;
+  position: relative;
+  width: 240px;
+}
+
+.courses-7 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  white-space: nowrap;
+}
+
+.number {
+  left: 189px;
+  letter-spacing: 0;
+  line-height: 29px;
+  position: absolute;
+  text-align: center;
+  top: 27px;
+  white-space: nowrap;
+}
+
+.pie-chart {
+  display: flex;
+  height: 109px;
+  justify-content: space-between;
+  left: 4px;
+  position: absolute;
+  top: 0;
+  width: 236px;
+}
+
+.number-1 {
+  align-self: flex-end;
+  height: 26px;
+  letter-spacing: 0;
+  line-height: 17px;
+  margin-bottom: -5.5px;
+  text-align: center;
+  white-space: nowrap;
+  width: 12px;
+}
+
+.group-839 {
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 84.57px;
+  width: 84.57px;
+}
+
+.path-36-1 {
+  height: 42.28px;
+  margin-left: 0;
+  margin-top: 0;
+  object-fit: cover;
+  width: 42.28px;
+}
+
+.enrolled {
+  left: 27px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 91px;
+  white-space: nowrap;
+}
+
+.total-clients.total-clients-1 {
+  left: 398px;
+  position: absolute;
+  top: 9px;
+}
+
+.total-clients.total-clients-1 .group-839 {
+  height: 84.57px;
+}
+
+.total-clients.total-clients-1 .path-36-1 {
+  height: 42.28px;
+}
+

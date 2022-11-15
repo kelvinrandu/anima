@@ -1,0 +1,32 @@
+.button-1-1 {
+  align-self: center;
+  display: flex;
+  height: 40px;
+  justify-content: space-between;
+  margin-top: 25px;
+  position: relative;
+  width: 270px;
+}
+
+.view-profile-4 {
+  align-items: flex-end;
+  background-color: var(--blue-chalk);
+  border-radius: 5px;
+  display: flex;
+  justify-content: flex-end;
+  min-width: 130px;
+  padding: 2.5px 17px;
+}
+
+.view-profile-5 {
+  letter-spacing: 0;
+  line-height: 16px;
+  min-height: 25px;
+  min-width: 93px;
+  white-space: nowrap;
+}
+
+.button-1-1.button-2 {
+  margin-top: 23px;
+}
+

@@ -1,0 +1,191 @@
+.log-in-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 1280px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.overlap-group2 {
+  align-items: flex-start;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  margin-left: -20px;
+  margin-top: -13px;
+  min-height: 1307px;
+  padding: 288.5px 345px;
+  width: 1961px;
+}
+
+.acts_logo-1 {
+  height: 133px;
+  margin-top: 264px;
+  object-fit: cover;
+  width: 186px;
+}
+
+.overlap-group4-1 {
+  align-items: center;
+  background-color: var(--eden);
+  border-radius: 5px;
+  box-shadow: 0px 8px 40px #0000000d;
+  display: flex;
+  gap: 25px;
+  height: 56px;
+  margin-left: 13px;
+  margin-top: 27px;
+  min-width: 534px;
+  padding: 11.5px 21.8px;
+}
+
+.arrow-path-container {
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 20px;
+  margin-bottom: 0.45px;
+  position: relative;
+  width: 27px;
+}
+
+.arrow-path {
+  height: 13px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 15px;
+}
+
+.arrow-path-1 {
+  height: 13px;
+  left: 12px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 15px;
+}
+
+.ridhotijangmailco {
+  align-self: flex-end;
+  letter-spacing: -0.11px;
+  line-height: 20px;
+  min-height: 29px;
+  min-width: 180px;
+  white-space: nowrap;
+}
+
+.overlap-group3-1 {
+  align-items: center;
+  background-color: var(--eden);
+  border-radius: 5px;
+  box-shadow: 0px 8px 40px #0000000d;
+  display: flex;
+  gap: 27px;
+  height: 56px;
+  margin-left: 13px;
+  margin-top: 22px;
+  min-width: 534px;
+  padding: 8.5px 26.0px;
+}
+
+.overlap-group-1 {
+  height: 26px;
+  margin-bottom: 2.0px;
+  position: relative;
+  width: 20px;
+}
+
+.rectangle {
+  height: 17px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 20px;
+}
+
+.oval {
+  height: 12px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 13px;
+}
+
+.text-1 {
+  align-self: flex-end;
+  letter-spacing: -0.11px;
+  line-height: 20px;
+  min-height: 29px;
+  min-width: 93px;
+  white-space: nowrap;
+}
+
+.overlap-group5 {
+  border-radius: 33px;
+  height: 46px;
+  margin-left: 13.0px;
+  margin-top: 13px;
+  position: relative;
+  width: 158px;
+}
+
+.never-received-or-fo {
+  left: 52px;
+  letter-spacing: -0.10px;
+  line-height: 19px;
+  position: absolute;
+  top: 13px;
+  white-space: nowrap;
+}
+
+.flex-row-10 {
+  align-items: flex-start;
+  display: flex;
+  gap: 14px;
+  height: 29px;
+  margin-left: 20px;
+  margin-top: 32px;
+  min-width: 288px;
+}
+
+.never-received-or-fo-1 {
+  letter-spacing: -0.11px;
+  line-height: 20px;
+  min-height: 29px;
+  min-width: 206px;
+  white-space: nowrap;
+}
+
+.reset-password {
+  letter-spacing: -0.11px;
+  line-height: 20px;
+  min-height: 29px;
+  white-space: nowrap;
+}
+
+.flex-row-11 {
+  align-items: flex-start;
+  display: flex;
+  gap: 20px;
+  height: 29px;
+  margin-left: 13px;
+  margin-top: 22px;
+  min-width: 363px;
+}
+
+.never-received-or-fo-2 {
+  color: #140a0a;
+  font-family: var(--font-family-sfprotext-regular);
+  font-size: var(--font-size-m);
+  letter-spacing: -0.11px;
+  line-height: 20px;
+  min-height: 29px;
+  min-width: 207px;
+  white-space: nowrap;
+}
+

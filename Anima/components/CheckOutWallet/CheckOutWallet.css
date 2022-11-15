@@ -1,0 +1,892 @@
+.check-out-wallet {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  height: 1280px;
+  padding: 32.0px 28px;
+  position: relative;
+  width: 1920px;
+}
+
+.flex-row-92 {
+  align-items: flex-end;
+  display: flex;
+  gap: 35px;
+  height: 1120px;
+  margin-right: 64.0px;
+  min-width: 1800px;
+}
+
+.overlap-group9-8 {
+  align-items: flex-start;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  min-height: 1120px;
+  padding: 43px 32px;
+  position: relative;
+  width: 400px;
+}
+
+.overlap-group-container-33 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  gap: 14px;
+  height: 59px;
+  margin-right: 0;
+  margin-top: 14px;
+  min-width: 260px;
+}
+
+.path-container-29 {
+  height: 54px;
+  position: relative;
+  width: 72px;
+}
+
+.path-1-35 {
+  height: 54px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 61px;
+}
+
+.path-2-9 {
+  height: 45px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 50px;
+}
+
+.overlap-group10-6 {
+  align-self: flex-end;
+  height: 56px;
+  position: relative;
+  width: 174px;
+}
+
+.new-to-acts-8 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.sign-in-8 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 34px;
+  white-space: nowrap;
+}
+
+.line-container-24 {
+  height: 11px;
+  left: 61px;
+  position: absolute;
+  top: 40px;
+  width: 22px;
+}
+
+.line-11-23 {
+  height: 2px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 22px;
+}
+
+.line-12-23 {
+  height: 7px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 7px;
+}
+
+.line-13-23 {
+  height: 7px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 7px;
+}
+
+.flex-row-93 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  gap: 17px;
+  height: 30px;
+  margin-right: 92.37px;
+  margin-top: 49px;
+  min-width: 151px;
+}
+
+.home-8 {
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 19px;
+  margin-top: 0.33px;
+  width: 19px;
+}
+
+.dashboard-22,
+.study-hub-10,
+.library-18,
+.conferencing-8,
+.community-15 {
+  letter-spacing: 0;
+  line-height: 20px;
+  min-height: 30px;
+  white-space: nowrap;
+}
+
+.flex-row-94 {
+  align-items: flex-start;
+  display: flex;
+  gap: 19px;
+  height: 30px;
+  margin-left: 47px;
+  margin-top: 36px;
+  min-width: 141px;
+  position: relative;
+}
+
+.flex-row-95 {
+  align-items: flex-start;
+  display: flex;
+  gap: 17px;
+  height: 30px;
+  margin-left: 48.42px;
+  margin-top: 38px;
+  min-width: 104px;
+}
+
+.book-8 {
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 20px;
+  margin-top: 1.24px;
+  width: 17px;
+}
+
+.flex-row-96 {
+  align-items: flex-start;
+  display: flex;
+  gap: 14px;
+  height: 30px;
+  margin-left: 44.61px;
+  margin-top: 36px;
+  min-width: 145px;
+}
+
+.combined-shape-16 {
+  height: 18px;
+  object-fit: cover;
+  width: 25px;
+}
+
+.resources-8 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 20px;
+  min-height: 30px;
+  min-width: 106px;
+  white-space: nowrap;
+}
+
+.flex-row-97 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  gap: 19px;
+  height: 30px;
+  margin-right: 69.29px;
+  margin-top: 34px;
+  min-width: 177px;
+}
+
+.combined-shape-17 {
+  height: 19px;
+  margin-top: 0.53px;
+  object-fit: cover;
+  width: 20px;
+}
+
+.flex-row-98 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  gap: 15px;
+  height: 30px;
+  margin-right: 81.64px;
+  margin-top: 34px;
+  min-width: 161px;
+  position: relative;
+}
+
+.flex-row-99 {
+  align-items: flex-start;
+  display: flex;
+  gap: 18px;
+  height: 30px;
+  margin-left: 51.49px;
+  margin-top: 34px;
+  min-width: 113px;
+  position: relative;
+}
+
+.reports-8 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 20px;
+  min-height: 30px;
+  min-width: 79px;
+  white-space: nowrap;
+}
+
+.overlap-group11-6 {
+  align-items: center;
+  align-self: flex-end;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 60px;
+  margin-top: 14px;
+  min-width: 300px;
+  padding: 9.7px 15px;
+  position: relative;
+}
+
+.wallet-13 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 11px;
+  min-height: 30px;
+  min-width: 66px;
+  white-space: nowrap;
+}
+
+.setting-container-7 {
+  align-items: flex-start;
+  display: flex;
+  gap: 14px;
+  height: 32px;
+  margin-left: 48px;
+  margin-top: 22px;
+  min-width: 111px;
+  position: relative;
+}
+
+.setting-8 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 20px;
+  min-height: 30px;
+  min-width: 73px;
+  white-space: nowrap;
+}
+
+.flex-row-100 {
+  align-items: flex-start;
+  display: flex;
+  gap: 12px;
+  height: 33px;
+  margin-left: 51px;
+  margin-top: 32px;
+  min-width: 118px;
+  position: relative;
+}
+
+.support-8 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 20px;
+  min-height: 30px;
+  min-width: 82px;
+  white-space: nowrap;
+}
+
+.image-50 {
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 60px;
+  margin-left: 53px;
+  margin-top: 54px;
+  width: 60px;
+}
+
+.baraka-12 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-left: 53px;
+  margin-top: 16px;
+  min-height: 27px;
+  white-space: nowrap;
+}
+
+.flex-col-16 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  min-height: 1092px;
+  position: relative;
+  width: 1365px;
+}
+
+.overlap-group12-5 {
+  height: 1004px;
+  position: relative;
+  width: 1365px;
+}
+
+.overlap-group8-10 {
+  height: 994px;
+  left: 0;
+  position: absolute;
+  top: 10px;
+  width: 1365px;
+}
+
+.device-that-you-can-use-8 {
+  background-color: var(--eden);
+  height: 446px;
+  left: 0;
+  position: absolute;
+  top: 303px;
+  width: 1365px;
+}
+
+.available-balance-1 {
+  left: 374px;
+  letter-spacing: 0;
+  line-height: 45px;
+  opacity: 0.18;
+  position: absolute;
+  top: 298px;
+  white-space: nowrap;
+}
+
+.price-2 {
+  left: 374px;
+  letter-spacing: 0;
+  line-height: 45px;
+  opacity: 0.18;
+  position: absolute;
+  top: 346px;
+  white-space: nowrap;
+}
+
+.path-1013-1 {
+  height: 7px;
+  left: 376px;
+  object-fit: cover;
+  position: absolute;
+  top: 406px;
+  width: 243px;
+}
+
+.never-received-or-fo-24 {
+  left: 903px;
+  letter-spacing: -0.14px;
+  line-height: 27px;
+  opacity: 0.18;
+  position: absolute;
+  top: 324px;
+  white-space: nowrap;
+}
+
+.never-received-or-fo-25 {
+  left: 887px;
+  letter-spacing: -0.14px;
+  line-height: 27px;
+  opacity: 0.18;
+  position: absolute;
+  top: 374px;
+  white-space: nowrap;
+}
+
+.bg-12 {
+  background: linear-gradient(37.63deg, #ffffff 2.55%, #9b8dff 98.02%);
+  border-radius: 20px;
+  height: 164px;
+  left: 374px;
+  opacity: 0.18;
+  position: absolute;
+  top: 500px;
+  width: 132px;
+}
+
+.bg-13 {
+  background: linear-gradient(37.63deg, #ffffff 2.55%, #9b8dff 98.02%);
+  border-radius: 20px;
+  height: 164px;
+  left: 515px;
+  opacity: 0.18;
+  position: absolute;
+  top: 500px;
+  width: 132px;
+}
+
+.bg-14 {
+  background: linear-gradient(37.63deg, #ffffff 2.55%, #9b8dff 98.02%);
+  border-radius: 20px;
+  height: 164px;
+  left: 656px;
+  opacity: 0.18;
+  position: absolute;
+  top: 502px;
+  width: 132px;
+}
+
+.bg-15 {
+  background: linear-gradient(37.63deg, #ffffff 2.55%, #9b8dff 98.02%);
+  border-radius: 20px;
+  height: 164px;
+  left: 797px;
+  opacity: 0.18;
+  position: absolute;
+  top: 502px;
+  width: 132px;
+}
+
+.bg-16 {
+  background: linear-gradient(37.63deg, #ffffff 2.55%, #9b8dff 98.02%);
+  border-radius: 20px;
+  height: 164px;
+  left: 938px;
+  opacity: 0.18;
+  position: absolute;
+  top: 500px;
+  width: 132px;
+}
+
+.paypal_png7-1 {
+  height: 162px;
+  left: 473px;
+  object-fit: cover;
+  position: absolute;
+  top: 494px;
+  width: 216px;
+}
+
+.maestro_2016svg-1 {
+  height: 78px;
+  left: 672px;
+  object-fit: cover;
+  position: absolute;
+  top: 546px;
+  width: 100px;
+}
+
+.google-wallet-logo-vector-1 {
+  height: 109px;
+  left: 809px;
+  object-fit: cover;
+  position: absolute;
+  top: 530px;
+  width: 109px;
+}
+
+.bg-17 {
+  background: linear-gradient(37.7deg, #ffffff 2.55%, #ffffff 98.02%);
+  border: 1px solid;
+  border-color: var(--black);
+  border-radius: 20px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 994px;
+  left: 364px;
+  position: absolute;
+  top: 0;
+  width: 802px;
+}
+
+.mastercard-logosvg-1 {
+  height: 191px;
+  left: 639px;
+  object-fit: cover;
+  position: absolute;
+  top: 40px;
+  width: 246px;
+}
+
+.paypal_png7-2 {
+  height: 147px;
+  left: 473px;
+  object-fit: cover;
+  position: absolute;
+  top: 50px;
+  width: 195px;
+}
+
+.maestro_2016svg-2 {
+  height: 71px;
+  left: 897px;
+  object-fit: cover;
+  position: absolute;
+  top: 88px;
+  width: 91px;
+}
+
+.google-wallet-logo-vector-2 {
+  height: 99px;
+  left: 427px;
+  object-fit: cover;
+  position: absolute;
+  top: 75px;
+  width: 99px;
+}
+
+.g4158-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 33px;
+  justify-content: flex-end;
+  left: 1004px;
+  min-width: 101px;
+  position: absolute;
+  top: 107px;
+}
+
+.overlap-group6-9 {
+  align-self: center;
+  height: 32px;
+  margin-top: 0.1px;
+  position: relative;
+  width: 49px;
+}
+
+.polygon9-2 {
+  height: 32px;
+  left: 36px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 13px;
+}
+
+.path15-2 {
+  height: 32px;
+  left: 9px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 29px;
+}
+
+.path17-2 {
+  height: 17px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}
+
+.path-container-30 {
+  height: 33px;
+  margin-top: 0;
+  position: relative;
+  width: 52px;
+}
+
+.path11-2 {
+  height: 33px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 25px;
+}
+
+.path13-2 {
+  height: 32px;
+  left: 23px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 29px;
+}
+
+.ridhotijangmailco-51 {
+  left: 657px;
+  letter-spacing: -0.11px;
+  line-height: 20px;
+  position: absolute;
+  top: 340px;
+  white-space: nowrap;
+}
+
+.ridhotijangmailco-52 {
+  left: 657px;
+  letter-spacing: -0.11px;
+  line-height: 20px;
+  position: absolute;
+  top: 420px;
+  white-space: nowrap;
+}
+
+.rectangle-19 {
+  height: 178px;
+  left: 539px;
+  object-fit: cover;
+  position: absolute;
+  top: 276px;
+  width: 467px;
+}
+
+.ridhotijangmailco-53 {
+  left: 624px;
+  letter-spacing: -0.11px;
+  line-height: 20px;
+  position: absolute;
+  top: 346px;
+  white-space: nowrap;
+}
+
+.ridhotijangmailco-54 {
+  left: 600px;
+  letter-spacing: -0.11px;
+  line-height: 20px;
+  position: absolute;
+  top: 298px;
+  white-space: nowrap;
+}
+
+.rectangle-20 {
+  height: 178px;
+  left: 536px;
+  object-fit: cover;
+  position: absolute;
+  top: 374px;
+  width: 224px;
+}
+
+.ridhotijangmailco-55 {
+  left: 621px;
+  letter-spacing: -0.11px;
+  line-height: 20px;
+  position: absolute;
+  top: 444px;
+  white-space: nowrap;
+}
+
+.ridhotijangmailco-56 {
+  left: 597px;
+  letter-spacing: -0.11px;
+  line-height: 20px;
+  position: absolute;
+  top: 396px;
+  white-space: nowrap;
+}
+
+.rectangle-21 {
+  height: 178px;
+  left: 650px;
+  object-fit: cover;
+  position: absolute;
+  top: 374px;
+  width: 224px;
+}
+
+.ridhotijangmailco-57 {
+  left: 735px;
+  letter-spacing: -0.11px;
+  line-height: 20px;
+  position: absolute;
+  top: 444px;
+  white-space: nowrap;
+}
+
+.rectangle-22 {
+  height: 178px;
+  left: 760px;
+  object-fit: cover;
+  position: absolute;
+  top: 374px;
+  width: 224px;
+}
+
+.ridhotijangmailco-58 {
+  left: 845px;
+  letter-spacing: -0.11px;
+  line-height: 20px;
+  position: absolute;
+  top: 444px;
+  white-space: nowrap;
+}
+
+.rectangle-23 {
+  height: 178px;
+  left: 870px;
+  object-fit: cover;
+  position: absolute;
+  top: 374px;
+  width: 224px;
+}
+
+.ridhotijangmailco-59 {
+  left: 955px;
+  letter-spacing: -0.11px;
+  line-height: 20px;
+  position: absolute;
+  top: 444px;
+  white-space: nowrap;
+}
+
+.rectangle-24 {
+  height: 178px;
+  left: 538px;
+  object-fit: cover;
+  position: absolute;
+  top: 476px;
+  width: 336px;
+}
+
+.ridhotijangmailco-60 {
+  left: 623px;
+  letter-spacing: -0.11px;
+  line-height: 20px;
+  position: absolute;
+  top: 546px;
+  white-space: nowrap;
+}
+
+.ridhotijangmailco-61 {
+  left: 599px;
+  letter-spacing: -0.11px;
+  line-height: 20px;
+  position: absolute;
+  top: 498px;
+  white-space: nowrap;
+}
+
+.rectangle-25 {
+  height: 178px;
+  left: 760px;
+  object-fit: cover;
+  position: absolute;
+  top: 476px;
+  width: 224px;
+}
+
+.ridhotijangmailco-62 {
+  left: 845px;
+  letter-spacing: -0.11px;
+  line-height: 20px;
+  position: absolute;
+  top: 546px;
+  white-space: nowrap;
+}
+
+.polygon-2-1 {
+  height: 12px;
+  left: 771px;
+  object-fit: cover;
+  position: absolute;
+  top: 551px;
+  width: 17px;
+}
+
+.polygon-3 {
+  height: 12px;
+  left: 896px;
+  object-fit: cover;
+  position: absolute;
+  top: 551px;
+  width: 17px;
+}
+
+.rectangle-26 {
+  height: 178px;
+  left: 538px;
+  object-fit: cover;
+  position: absolute;
+  top: 579px;
+  width: 212px;
+}
+
+.ridhotijangmailco-63 {
+  left: 623px;
+  letter-spacing: -0.11px;
+  line-height: 20px;
+  position: absolute;
+  top: 648px;
+  white-space: nowrap;
+}
+
+.ridhotijangmailco-64 {
+  left: 599px;
+  letter-spacing: -0.11px;
+  line-height: 20px;
+  position: absolute;
+  top: 600px;
+  white-space: nowrap;
+}
+
+.ridhotijangmailco-65 {
+  left: 703px;
+  letter-spacing: -0.11px;
+  line-height: 20px;
+  position: absolute;
+  top: 648px;
+  white-space: nowrap;
+}
+
+.never-received-or-fo-26 {
+  left: 655px;
+  letter-spacing: -0.14px;
+  line-height: 27px;
+  position: absolute;
+  top: 726px;
+  white-space: nowrap;
+}
+
+.save-card-details {
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+  left: 645px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 796px;
+  white-space: nowrap;
+}
+
+.checkbox-5 {
+  height: 24px;
+  left: 599px;
+  object-fit: cover;
+  position: absolute;
+  top: 792px;
+  width: 24px;
+}
+
+.acts_logo-14 {
+  height: 126px;
+  left: 971px;
+  object-fit: cover;
+  position: absolute;
+  top: 834px;
+  width: 177px;
+}
+

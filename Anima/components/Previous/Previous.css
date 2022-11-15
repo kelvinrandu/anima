@@ -1,0 +1,29 @@
+.pagination-item,
+.pagination-1-item,
+.pagination-2-item {
+  align-items: flex-end;
+  background-color: var(--eerie-black);
+  border: 1px solid;
+  border-color: var(--eden);
+  border-radius: 12px;
+  display: flex;
+  height: 52px;
+  justify-content: flex-end;
+  min-width: 91px;
+  padding: 9.5px 27px;
+}
+
+.prev,
+.next,
+.prev-1,
+.next-1,
+.prev-2,
+.next-2 {
+  letter-spacing: 0;
+  line-height: 16px;
+  min-height: 25px;
+  min-width: 36px;
+  text-align: center;
+  white-space: nowrap;
+}
+

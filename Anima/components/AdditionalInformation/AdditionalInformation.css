@@ -1,0 +1,347 @@
+.additional-information {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1280px;
+  padding: 14px 25px;
+  width: 1920px;
+}
+
+.acts_logo-8 {
+  align-self: flex-start;
+  height: 133px;
+  object-fit: cover;
+  width: 186px;
+}
+
+.overlap-group4-7 {
+  align-items: flex-start;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  gap: 17px;
+  margin-right: 736.0px;
+  margin-top: 392px;
+  min-height: 202px;
+  padding: 28px 19px;
+  width: 338px;
+}
+
+.text-6 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  min-height: 72px;
+  width: 122px;
+}
+
+.step-4 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: 4px;
+  min-height: 30px;
+  min-width: 66px;
+  white-space: nowrap;
+}
+
+.flex-row-19 {
+  align-items: flex-start;
+  display: flex;
+  gap: 5px;
+  height: 25px;
+  min-width: 122px;
+}
+
+.task-done-3 {
+  letter-spacing: 0;
+  line-height: 16px;
+  min-height: 25px;
+  min-width: 87px;
+  opacity: 0.7;
+  white-space: nowrap;
+}
+
+.text-6-1 {
+  letter-spacing: 0;
+  line-height: 16px;
+  min-height: 25px;
+  opacity: 0.7;
+  white-space: nowrap;
+}
+
+.overlap-group8-4 {
+  align-items: flex-start;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  min-width: 243px;
+}
+
+.path-1003-3 {
+  height: 7px;
+  object-fit: cover;
+  width: 215px;
+}
+
+.overlap-group-container-12 {
+  height: 222px;
+  margin-right: 59.0px;
+  margin-top: 26px;
+  position: relative;
+  width: 1137px;
+}
+
+.overlap-group-container-13 {
+  height: 222px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1137px;
+}
+
+.overlap-group10-2 {
+  height: 222px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 908px;
+}
+
+.overlap-group3-5 {
+  height: 222px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 772px;
+}
+
+.rectangle-15 {
+  height: 178px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 32px;
+  width: 467px;
+}
+
+.ridhotijangmailco-24 {
+  left: 134px;
+  letter-spacing: -0.11px;
+  line-height: 20px;
+  position: absolute;
+  top: 100px;
+  white-space: nowrap;
+}
+
+.rectangle-16 {
+  background-color: var(--fun-green);
+  border: 2px solid;
+  border-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 0px 8px 40px #0000000d;
+  height: 58px;
+  left: 60px;
+  position: absolute;
+  top: 164px;
+  width: 347px;
+}
+
+.ridhotijangmailco-25 {
+  left: 134px;
+  letter-spacing: -0.11px;
+  line-height: 20px;
+  position: absolute;
+  top: 181px;
+  white-space: nowrap;
+}
+
+.rectangle-17 {
+  background-color: var(--fun-green);
+  border: 2px solid;
+  border-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 0px 8px 40px #0000000d;
+  height: 58px;
+  left: 425px;
+  position: absolute;
+  top: 84px;
+  width: 347px;
+}
+
+.ridhotijangmailco-26 {
+  left: 499px;
+  letter-spacing: -0.11px;
+  line-height: 20px;
+  position: absolute;
+  top: 100px;
+  white-space: nowrap;
+}
+
+.rectangle-18 {
+  background-color: var(--fun-green);
+  border: 2px solid;
+  border-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 0px 8px 40px #0000000d;
+  height: 58px;
+  left: 425px;
+  position: absolute;
+  top: 164px;
+  width: 347px;
+}
+
+.ridhotijangmailco-27 {
+  left: 499px;
+  letter-spacing: -0.11px;
+  line-height: 20px;
+  position: absolute;
+  top: 181px;
+  white-space: nowrap;
+}
+
+.profile-update-3 {
+  left: 61px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 15px;
+  white-space: nowrap;
+}
+
+.additional-information-1 {
+  left: 61px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.future-education-optional {
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: 17px;
+  font-weight: 600;
+  left: 664px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 28px;
+  white-space: nowrap;
+}
+
+.overlap-group1-4 {
+  align-items: center;
+  background-color: var(--fun-green);
+  border: 2px solid;
+  border-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 0px 8px 40px #0000000d;
+  display: flex;
+  height: 58px;
+  left: 790px;
+  min-width: 347px;
+  padding: 0 72px;
+  position: absolute;
+  top: 84px;
+}
+
+.ridhotijangmailco-28 {
+  letter-spacing: -0.11px;
+  line-height: 20px;
+  min-height: 29px;
+  min-width: 173px;
+  white-space: nowrap;
+}
+
+.overlap-group5-5 {
+  align-items: center;
+  background-color: var(--fun-green);
+  border: 2px solid;
+  border-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 0px 8px 40px #0000000d;
+  display: flex;
+  gap: 35px;
+  height: 58px;
+  justify-content: flex-end;
+  left: 790px;
+  min-width: 347px;
+  padding: 0 48.0px;
+  position: absolute;
+  top: 164px;
+}
+
+.ridhotijangmailco-29 {
+  letter-spacing: -0.11px;
+  line-height: 20px;
+  min-height: 29px;
+  min-width: 176px;
+  white-space: nowrap;
+}
+
+.overlap-group7-4 {
+  align-items: flex-end;
+  background-color: var(--unmellow-yellow);
+  border-radius: 5px;
+  display: flex;
+  height: 40px;
+  left: 1024px;
+  min-width: 112px;
+  padding: 2.5px 15px;
+  position: absolute;
+  top: 14px;
+}
+
+.add-entry-2 {
+  letter-spacing: 0;
+  line-height: 16px;
+  min-height: 25px;
+  min-width: 78px;
+  white-space: nowrap;
+}
+
+.overlap-group-container-14 {
+  align-items: flex-start;
+  display: flex;
+  gap: 15px;
+  margin-right: 619.0px;
+  margin-top: 37px;
+  min-width: 455px;
+}
+
+.overlap-group6-4 {
+  height: 44px;
+  position: relative;
+  width: 220px;
+}
+
+.never-received-or-fo-16 {
+  left: 72px;
+  letter-spacing: -0.14px;
+  line-height: 27px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.overlap-group2-5 {
+  align-self: flex-end;
+  border-radius: 33px;
+  height: 43px;
+  position: relative;
+  width: 220px;
+}
+
+.never-received-or-fo-17 {
+  left: 72px;
+  letter-spacing: -0.14px;
+  line-height: 27px;
+  position: absolute;
+  top: 5px;
+  white-space: nowrap;
+}
+

@@ -1,0 +1,23 @@
+.layer1-5 {
+  align-items: center;
+  display: flex;
+  height: 18px;
+  justify-content: center;
+  margin-bottom: 4.0px;
+  margin-left: 16px;
+  min-width: 12px;
+  transform: rotate(90deg);
+}
+
+.path9429-2 {
+  height: 13px;
+  object-fit: cover;
+  transform: rotate(-90deg);
+  width: 21px;
+}
+
+.layer1-5.layer1-6 {
+  margin-bottom: 1.95px;
+  margin-left: unset;
+}
+

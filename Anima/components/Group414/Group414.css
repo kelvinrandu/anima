@@ -1,0 +1,85 @@
+.group-41-17,
+.group-41-18 {
+  align-self: center;
+  display: flex;
+  height: 49px;
+  margin-left: 65.0px;
+  width: 1275px;
+}
+
+.group-1-10,
+.group-1-11 {
+  align-items: flex-end;
+  background-color: var(--eden);
+  border-radius: 12px;
+  display: flex;
+  flex: 1;
+  min-width: 1275px;
+  padding: 7.5px 58px;
+}
+
+.applications-10,
+.applications-11 {
+  letter-spacing: 0;
+  line-height: 16px;
+  min-height: 25px;
+  min-width: 104px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.institution-13,
+.institution-14 {
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-left: 108px;
+  min-height: 25px;
+  min-width: 82px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.courses-11,
+.courses-12 {
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-left: 115px;
+  min-height: 25px;
+  min-width: 68px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.library-26,
+.library-27 {
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-left: 121px;
+  min-height: 25px;
+  min-width: 56px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.market-10,
+.market-11 {
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-left: 156px;
+  min-height: 25px;
+  min-width: 58px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.community-24,
+.community-25 {
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-left: 101px;
+  min-height: 25px;
+  min-width: 98px;
+  text-align: center;
+  white-space: nowrap;
+}
+

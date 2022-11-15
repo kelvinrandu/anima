@@ -1,0 +1,66 @@
+.to-complete-your-profile {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 1280px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.try-premium-container {
+  align-items: flex-end;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  gap: 475px;
+  margin-left: -44px;
+  margin-top: -19px;
+  min-height: 1310px;
+  padding: 78px 163px;
+  width: 1964px;
+}
+
+.try-premium-14 {
+  align-self: center;
+  display: flex;
+  height: 140px;
+  margin-right: 39.0px;
+  margin-top: 511px;
+  width: 1315px;
+}
+
+.we-would-like-to-know-you {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 100px;
+  margin-bottom: -22px;
+  margin-right: -2px;
+  margin-top: 20px;
+  white-space: nowrap;
+  width: 1315px;
+}
+
+.try-premium-15 {
+  align-items: flex-end;
+  display: flex;
+  gap: 17px;
+  height: 28px;
+  justify-content: flex-end;
+  position: relative;
+  width: 263px;
+}
+
+.complete-your-profile {
+  color: var(--eden);
+  flex: 1;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -6px;
+  margin-top: 4px;
+  white-space: nowrap;
+}
+

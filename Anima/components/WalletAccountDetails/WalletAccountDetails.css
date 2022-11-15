@@ -1,0 +1,768 @@
+.wallet-account-details {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 1280px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.overlap-group4-13 {
+  align-items: flex-start;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  margin-left: -64px;
+  margin-top: -43px;
+  min-height: 1323px;
+  padding: 32px 92px;
+  position: relative;
+  width: 1984px;
+}
+
+.overlap-group-container-34 {
+  align-items: flex-start;
+  display: flex;
+  gap: 34px;
+  height: 1120px;
+  min-width: 1800px;
+}
+
+.overlap-group6-10 {
+  align-items: flex-start;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  min-height: 1120px;
+  padding: 43px 32px;
+  position: relative;
+  width: 400px;
+}
+
+.overlap-group-container-35 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  gap: 14px;
+  height: 59px;
+  margin-right: 0;
+  margin-top: 14px;
+  min-width: 260px;
+}
+
+.path-container-31 {
+  height: 54px;
+  position: relative;
+  width: 72px;
+}
+
+.path-1-36 {
+  height: 54px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 61px;
+}
+
+.path-2-10 {
+  height: 45px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 50px;
+}
+
+.overlap-group8-11 {
+  align-self: flex-end;
+  height: 56px;
+  position: relative;
+  width: 174px;
+}
+
+.new-to-acts-9 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.sign-in-9 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 34px;
+  white-space: nowrap;
+}
+
+.line-container-25 {
+  height: 11px;
+  left: 61px;
+  position: absolute;
+  top: 40px;
+  width: 22px;
+}
+
+.line-11-24 {
+  height: 2px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 22px;
+}
+
+.line-12-24 {
+  height: 7px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 7px;
+}
+
+.line-13-24 {
+  height: 7px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 7px;
+}
+
+.flex-row-101 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  gap: 17px;
+  height: 30px;
+  margin-right: 92.37px;
+  margin-top: 49px;
+  min-width: 151px;
+}
+
+.home-9 {
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 19px;
+  margin-top: 0.33px;
+  width: 19px;
+}
+
+.dashboard-23,
+.study-hub-11,
+.library-19,
+.conferencing-9,
+.community-16 {
+  letter-spacing: 0;
+  line-height: 20px;
+  min-height: 30px;
+  white-space: nowrap;
+}
+
+.flex-row-102 {
+  align-items: flex-start;
+  display: flex;
+  gap: 19px;
+  height: 30px;
+  margin-left: 47px;
+  margin-top: 36px;
+  min-width: 141px;
+  position: relative;
+}
+
+.flex-row-103 {
+  align-items: flex-start;
+  display: flex;
+  gap: 17px;
+  height: 30px;
+  margin-left: 48.42px;
+  margin-top: 38px;
+  min-width: 104px;
+}
+
+.book-9 {
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 20px;
+  margin-top: 1.24px;
+  width: 17px;
+}
+
+.flex-row-104 {
+  align-items: flex-start;
+  display: flex;
+  gap: 14px;
+  height: 30px;
+  margin-left: 44.61px;
+  margin-top: 36px;
+  min-width: 145px;
+}
+
+.combined-shape-18 {
+  height: 18px;
+  object-fit: cover;
+  width: 25px;
+}
+
+.resources-9 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 20px;
+  min-height: 30px;
+  min-width: 106px;
+  white-space: nowrap;
+}
+
+.flex-row-105 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  gap: 19px;
+  height: 30px;
+  margin-right: 69.29px;
+  margin-top: 34px;
+  min-width: 177px;
+}
+
+.combined-shape-19 {
+  height: 19px;
+  margin-top: 0.53px;
+  object-fit: cover;
+  width: 20px;
+}
+
+.flex-row-106 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  gap: 15px;
+  height: 30px;
+  margin-right: 81.64px;
+  margin-top: 34px;
+  min-width: 161px;
+  position: relative;
+}
+
+.flex-row-107 {
+  align-items: flex-start;
+  display: flex;
+  gap: 18px;
+  height: 30px;
+  margin-left: 51.49px;
+  margin-top: 34px;
+  min-width: 113px;
+  position: relative;
+}
+
+.reports-9 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 20px;
+  min-height: 30px;
+  min-width: 79px;
+  white-space: nowrap;
+}
+
+.overlap-group7-9 {
+  align-items: center;
+  align-self: flex-end;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 60px;
+  margin-top: 14px;
+  min-width: 300px;
+  padding: 9.7px 15px;
+  position: relative;
+}
+
+.wallet-14 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 11px;
+  min-height: 30px;
+  min-width: 66px;
+  white-space: nowrap;
+}
+
+.setting-container-8 {
+  align-items: flex-start;
+  display: flex;
+  gap: 14px;
+  height: 32px;
+  margin-left: 48px;
+  margin-top: 22px;
+  min-width: 111px;
+  position: relative;
+}
+
+.setting-9 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 20px;
+  min-height: 30px;
+  min-width: 73px;
+  white-space: nowrap;
+}
+
+.flex-row-108 {
+  align-items: flex-start;
+  display: flex;
+  gap: 12px;
+  height: 33px;
+  margin-left: 51px;
+  margin-top: 32px;
+  min-width: 118px;
+  position: relative;
+}
+
+.support-9 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 20px;
+  min-height: 30px;
+  min-width: 82px;
+  white-space: nowrap;
+}
+
+.image-51 {
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 60px;
+  margin-left: 53px;
+  margin-top: 54px;
+  width: 60px;
+}
+
+.baraka-13 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-left: 53px;
+  margin-top: 16px;
+  min-height: 27px;
+  white-space: nowrap;
+}
+
+.overlap-group5-10 {
+  height: 1102px;
+  position: relative;
+  width: 1366px;
+}
+
+.rounded-rectangle-1-copy-15-6 {
+  background-color: var(--white);
+  border-radius: 20px;
+  box-shadow: 0px 0px 40px #0001010f;
+  height: 1102px;
+  left: 0;
+  opacity: 0.62;
+  position: absolute;
+  top: 0;
+  width: 1365px;
+}
+
+.device-that-you-can-use-9 {
+  background-color: var(--eden);
+  height: 232px;
+  left: 1px;
+  position: absolute;
+  top: 429px;
+  width: 1365px;
+}
+
+.current-balance-1 {
+  left: 35px;
+  letter-spacing: 0;
+  line-height: 45px;
+  position: absolute;
+  top: 462px;
+  white-space: nowrap;
+}
+
+.price-3 {
+  left: 35px;
+  letter-spacing: 0;
+  line-height: 45px;
+  position: absolute;
+  top: 510px;
+  white-space: nowrap;
+}
+
+.path-1002-2 {
+  height: 7px;
+  left: 37px;
+  object-fit: cover;
+  position: absolute;
+  top: 570px;
+  width: 243px;
+}
+
+.never-received-or-fo-27 {
+  left: 37px;
+  letter-spacing: -0.11px;
+  line-height: 20px;
+  position: absolute;
+  top: 592px;
+  white-space: nowrap;
+}
+
+.available-balance-2 {
+  left: 364px;
+  letter-spacing: 0;
+  line-height: 45px;
+  position: absolute;
+  top: 462px;
+  white-space: nowrap;
+}
+
+.price-4 {
+  left: 364px;
+  letter-spacing: 0;
+  line-height: 45px;
+  position: absolute;
+  top: 510px;
+  white-space: nowrap;
+}
+
+.path-1013-2 {
+  height: 7px;
+  left: 366px;
+  object-fit: cover;
+  position: absolute;
+  top: 570px;
+  width: 243px;
+}
+
+.never-received-or-fo-28 {
+  left: 1116px;
+  letter-spacing: -0.14px;
+  line-height: 27px;
+  position: absolute;
+  top: 490px;
+  white-space: nowrap;
+}
+
+.never-received-or-fo-29 {
+  left: 893px;
+  letter-spacing: -0.14px;
+  line-height: 27px;
+  position: absolute;
+  top: 488px;
+  white-space: nowrap;
+}
+
+.never-received-or-fo-30 {
+  left: 1117px;
+  letter-spacing: -0.14px;
+  line-height: 27px;
+  position: absolute;
+  top: 538px;
+  white-space: nowrap;
+}
+
+.never-received-or-fo-31 {
+  left: 877px;
+  letter-spacing: -0.14px;
+  line-height: 27px;
+  position: absolute;
+  top: 538px;
+  white-space: nowrap;
+}
+
+.acts_logo-15 {
+  height: 126px;
+  left: 1168px;
+  object-fit: cover;
+  position: absolute;
+  top: 32px;
+  width: 177px;
+}
+
+.device-that-you-can-use-10 {
+  background-color: var(--eden);
+  height: 385px;
+  left: 1px;
+  position: absolute;
+  top: 678px;
+  width: 1365px;
+}
+
+.rectangle-44-2 {
+  background-color: var(--white);
+  border-radius: 7px;
+  height: 50px;
+  left: 358px;
+  position: absolute;
+  top: 717px;
+  width: 232px;
+}
+
+.anything-design {
+  left: 388px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 736px;
+  white-space: nowrap;
+}
+
+.account-name {
+  left: 359px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 690px;
+  white-space: nowrap;
+}
+
+.rectangle-119 {
+  background-color: var(--white);
+  border-radius: 7px;
+  height: 50px;
+  left: 359px;
+  position: absolute;
+  top: 806px;
+  width: 232px;
+}
+
+.phone-7 {
+  left: 388px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 822px;
+  white-space: nowrap;
+}
+
+.account-number {
+  left: 359px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 776px;
+  white-space: nowrap;
+}
+
+.rectangle-120 {
+  background-color: var(--white);
+  border-radius: 7px;
+  height: 50px;
+  left: 611px;
+  position: absolute;
+  top: 718px;
+  width: 232px;
+}
+
+.price-5 {
+  left: 641px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 736px;
+  white-space: nowrap;
+}
+
+.amount {
+  left: 612px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 690px;
+  white-space: nowrap;
+}
+
+.rectangle-121 {
+  background-color: var(--white);
+  border-radius: 7px;
+  height: 50px;
+  left: 612px;
+  position: absolute;
+  top: 804px;
+  width: 232px;
+}
+
+.price-6 {
+  left: 642px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 822px;
+  white-space: nowrap;
+}
+
+.balance {
+  left: 613px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 776px;
+  white-space: nowrap;
+}
+
+.rectangle-122 {
+  background-color: var(--white);
+  border-radius: 7px;
+  height: 50px;
+  left: 858px;
+  position: absolute;
+  top: 718px;
+  width: 232px;
+}
+
+.salome-akinyi-1 {
+  left: 888px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 736px;
+  white-space: nowrap;
+}
+
+.beneficiary-name {
+  left: 859px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 690px;
+  white-space: nowrap;
+}
+
+.rectangle-123 {
+  background-color: var(--white);
+  border-radius: 7px;
+  height: 50px;
+  left: 858px;
+  position: absolute;
+  top: 806px;
+  width: 232px;
+}
+
+.automation {
+  left: 888px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 824px;
+  white-space: nowrap;
+}
+
+.transaction-fee-05 {
+  left: 859px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 778px;
+  white-space: nowrap;
+}
+
+.rectangle-124 {
+  background-color: var(--white);
+  border-radius: 7px;
+  height: 50px;
+  left: 358px;
+  position: absolute;
+  top: 893px;
+  width: 232px;
+}
+
+.price-7 {
+  left: 387px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 910px;
+  white-space: nowrap;
+}
+
+.total-debit {
+  left: 358px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 864px;
+  white-space: nowrap;
+}
+
+.approve-transaction {
+  left: 659px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 898px;
+  white-space: nowrap;
+}
+
+.checkbox-6 {
+  height: 24px;
+  left: 613px;
+  object-fit: cover;
+  position: absolute;
+  top: 893px;
+  width: 24px;
+}
+
+.rectangle-125 {
+  background-color: var(--white);
+  border-radius: 7px;
+  height: 50px;
+  left: 358px;
+  position: absolute;
+  top: 980px;
+  width: 732px;
+}
+
+.received-cash-as-agreed {
+  left: 387px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 996px;
+  white-space: nowrap;
+}
+
+.note {
+  left: 358px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 950px;
+  white-space: nowrap;
+}
+
+.rectangle-126 {
+  background-color: var(--white);
+  border-radius: 7px;
+  height: 312px;
+  left: 1113px;
+  position: absolute;
+  top: 718px;
+  width: 232px;
+}
+
+.x20-paid-to-acts50 {
+  left: 1143px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 746px;
+  white-space: nowrap;
+}
+
+.payment-history {
+  left: 1114px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 690px;
+  white-space: nowrap;
+}
+

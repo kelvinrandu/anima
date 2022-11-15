@@ -1,0 +1,415 @@
+.personal-details-step-1 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1280px;
+  padding: 14px 25px;
+  width: 1920px;
+}
+
+.acts_logo-5 {
+  align-self: flex-start;
+  height: 133px;
+  object-fit: cover;
+  width: 186px;
+}
+
+.flex-row-13 {
+  align-items: flex-end;
+  display: flex;
+  gap: 18px;
+  height: 461px;
+  margin-right: 59.0px;
+  margin-top: 357px;
+  min-width: 1137px;
+}
+
+.overlap-group-container-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  min-height: 461px;
+  width: 772px;
+}
+
+.overlap-group7-1 {
+  align-items: flex-start;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  gap: 17px;
+  margin-left: 59px;
+  min-height: 202px;
+  padding: 28px 19px;
+  width: 338px;
+}
+
+.text {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  min-height: 72px;
+  width: 122px;
+}
+
+.step-1 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-right: 6px;
+  margin-top: 4px;
+  min-height: 30px;
+  min-width: 60px;
+  white-space: nowrap;
+}
+
+.flex-row-14 {
+  align-items: flex-start;
+  display: flex;
+  gap: 5px;
+  height: 25px;
+  min-width: 122px;
+}
+
+.task-done {
+  letter-spacing: 0;
+  line-height: 16px;
+  min-height: 25px;
+  min-width: 87px;
+  opacity: 0.7;
+  white-space: nowrap;
+}
+
+.text-3 {
+  letter-spacing: 0;
+  line-height: 16px;
+  min-height: 25px;
+  opacity: 0.7;
+  white-space: nowrap;
+}
+
+.overlap-group9-1 {
+  align-items: flex-start;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  min-width: 243px;
+}
+
+.path-1003 {
+  height: 7px;
+  object-fit: cover;
+  width: 215px;
+}
+
+.overlap-group1-1 {
+  height: 232px;
+  position: relative;
+  width: 772px;
+}
+
+.rectangle-3 {
+  height: 178px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 40px;
+  width: 467px;
+}
+
+.ridhotijangmailco-3 {
+  left: 134px;
+  letter-spacing: -0.11px;
+  line-height: 20px;
+  position: absolute;
+  top: 109px;
+  white-space: nowrap;
+}
+
+.rectangle-4 {
+  background-color: var(--fun-green);
+  border: 2px solid;
+  border-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 0px 8px 40px #0000000d;
+  height: 58px;
+  left: 60px;
+  position: absolute;
+  top: 174px;
+  width: 347px;
+}
+
+.ridhotijangmailco-4 {
+  left: 134px;
+  letter-spacing: -0.11px;
+  line-height: 20px;
+  position: absolute;
+  top: 190px;
+  white-space: nowrap;
+}
+
+.rectangle-5 {
+  background-color: var(--fun-green);
+  border: 2px solid;
+  border-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 0px 8px 40px #0000000d;
+  height: 58px;
+  left: 425px;
+  position: absolute;
+  top: 92px;
+  width: 347px;
+}
+
+.ridhotijangmailco-5 {
+  left: 499px;
+  letter-spacing: -0.11px;
+  line-height: 20px;
+  position: absolute;
+  top: 109px;
+  white-space: nowrap;
+}
+
+.rectangle-6 {
+  background-color: var(--fun-green);
+  border: 2px solid;
+  border-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 0px 8px 40px #0000000d;
+  height: 58px;
+  left: 425px;
+  position: absolute;
+  top: 174px;
+  width: 347px;
+}
+
+.ridhotijangmailco-6 {
+  left: 499px;
+  letter-spacing: -0.11px;
+  line-height: 20px;
+  position: absolute;
+  top: 190px;
+  white-space: nowrap;
+}
+
+.ridhotijangmailco-7 {
+  left: 61px;
+  letter-spacing: -0.11px;
+  line-height: 20px;
+  position: absolute;
+  top: 59px;
+  white-space: nowrap;
+}
+
+.ridhotijangmailco-8 {
+  left: 426px;
+  letter-spacing: -0.11px;
+  line-height: 20px;
+  position: absolute;
+  top: 59px;
+  white-space: nowrap;
+}
+
+.profile-update {
+  left: 61px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 24px;
+  white-space: nowrap;
+}
+
+.personal-details {
+  left: 59px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 234px;
+  width: 347px;
+}
+
+.path-1014 {
+  align-self: center;
+  height: 30px;
+  margin-left: 122.0px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.ridhotijangmailco-9 {
+  letter-spacing: -0.11px;
+  line-height: 20px;
+  margin-left: 1px;
+  margin-top: 31px;
+  min-height: 29px;
+  white-space: nowrap;
+}
+
+.overlap-group2-2 {
+  align-items: center;
+  background-color: var(--fun-green);
+  border: 2px solid;
+  border-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 0px 8px 40px #0000000d;
+  display: flex;
+  gap: 161px;
+  height: 58px;
+  justify-content: flex-end;
+  margin-top: 4px;
+  min-width: 347px;
+  padding: 0 27.6px;
+  position: relative;
+}
+
+.ridhotijangmailco-10 {
+  letter-spacing: -0.11px;
+  line-height: 20px;
+  min-height: 29px;
+  min-width: 72px;
+  white-space: nowrap;
+}
+
+.overlap-group3-2 {
+  align-items: center;
+  background-color: var(--fun-green);
+  border: 2px solid;
+  border-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 0px 8px 40px #0000000d;
+  display: flex;
+  gap: 190px;
+  height: 58px;
+  justify-content: flex-end;
+  margin-top: 23px;
+  min-width: 347px;
+  padding: 13.6px 24.6px;
+  position: relative;
+}
+
+.ridhotijangmailco-11 {
+  letter-spacing: -0.11px;
+  line-height: 20px;
+  min-height: 29px;
+  min-width: 46px;
+  white-space: nowrap;
+}
+
+.overlap-group-container-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 18px;
+  margin-left: 1.0px;
+  margin-top: 23px;
+  min-width: 1077px;
+}
+
+.overlap-group4-4 {
+  align-items: flex-end;
+  background-color: var(--fun-green);
+  border: 2px solid;
+  border-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 0px 8px 40px #0000000d;
+  display: flex;
+  height: 58px;
+  min-width: 347px;
+  padding: 11.5px 72px;
+}
+
+.x-2 {
+  letter-spacing: -0.11px;
+  line-height: 20px;
+  min-height: 29px;
+  min-width: 118px;
+  white-space: nowrap;
+}
+
+.overlap-group8-1 {
+  align-items: flex-end;
+  background-color: var(--fun-green);
+  border: 2px solid;
+  border-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 0px 8px 40px #0000000d;
+  display: flex;
+  gap: 139px;
+  height: 58px;
+  justify-content: flex-end;
+  min-width: 347px;
+  padding: 11.5px 24.6px;
+  position: relative;
+}
+
+.x-3 {
+  letter-spacing: -0.11px;
+  line-height: 20px;
+  min-height: 29px;
+  min-width: 97px;
+  white-space: nowrap;
+}
+
+.overlap-group6-1 {
+  align-items: flex-end;
+  background-color: var(--fun-green);
+  border: 2px solid;
+  border-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 0px 8px 40px #0000000d;
+  display: flex;
+  gap: 201px;
+  height: 58px;
+  justify-content: flex-end;
+  min-width: 347px;
+  padding: 11.5px 24.6px;
+  position: relative;
+}
+
+.x-4 {
+  letter-spacing: -0.11px;
+  line-height: 20px;
+  min-height: 29px;
+  min-width: 35px;
+  white-space: nowrap;
+}
+
+.overlap-group5-2 {
+  align-self: flex-end;
+  height: 45px;
+  margin-right: 397px;
+  margin-top: 30px;
+  position: relative;
+  width: 220px;
+}
+
+.group-10 {
+  background-color: var(--canary);
+  border-radius: 33px;
+  box-shadow: 0px 8px 40px #0000000d;
+  height: 43px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 220px;
+}
+
+.never-received-or-fo-9 {
+  left: 78px;
+  letter-spacing: -0.14px;
+  line-height: 27px;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+}
+

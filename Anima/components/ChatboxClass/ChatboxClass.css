@@ -1,0 +1,570 @@
+.chatbox-class {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 1280px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.group-container-2 {
+  align-items: flex-start;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  margin-left: -64px;
+  margin-top: -43px;
+  min-height: 1323px;
+  padding: 0 92px;
+  position: relative;
+  width: 1984px;
+}
+
+.overlap-group4-9 {
+  height: 1152px;
+  position: relative;
+  width: 1770px;
+}
+
+.bg-3 {
+  height: 1120px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 400px;
+}
+
+.bg-4 {
+  height: 60px;
+  left: 62px;
+  object-fit: cover;
+  position: absolute;
+  top: 299px;
+  width: 300px;
+}
+
+.image-7 {
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 60px;
+  left: 85px;
+  position: absolute;
+  top: 922px;
+  width: 60px;
+}
+
+.baraka-8 {
+  left: 85px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 998px;
+  white-space: nowrap;
+}
+
+.path-container-20 {
+  height: 54px;
+  left: 70px;
+  position: absolute;
+  top: 57px;
+  width: 72px;
+}
+
+.path-1-31 {
+  height: 54px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 61px;
+}
+
+.path-2-5 {
+  height: 45px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 50px;
+}
+
+.new-to-acts-4 {
+  left: 156px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 60px;
+  white-space: nowrap;
+}
+
+.sign-in-4 {
+  left: 156px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 94px;
+  white-space: nowrap;
+}
+
+.dashboard-18 {
+  left: 114px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 253px;
+  white-space: nowrap;
+}
+
+.resources-4 {
+  left: 115px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 453px;
+  white-space: nowrap;
+}
+
+.conferencing-4 {
+  left: 115px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 517px;
+  white-space: nowrap;
+}
+
+.community-11 {
+  left: 118px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 581px;
+  white-space: nowrap;
+}
+
+.reports-4 {
+  left: 118px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 645px;
+  white-space: nowrap;
+}
+
+.wallet-4 {
+  left: 118px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 709px;
+  white-space: nowrap;
+}
+
+.setting-4 {
+  left: 118px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 773px;
+  white-space: nowrap;
+}
+
+.support-4 {
+  left: 119px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 838px;
+  white-space: nowrap;
+}
+
+.study-hub-6 {
+  left: 114px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 319px;
+  white-space: nowrap;
+}
+
+.line-container-19 {
+  height: 11px;
+  left: 217px;
+  position: absolute;
+  top: 100px;
+  width: 22px;
+}
+
+.line-11-18 {
+  height: 2px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 22px;
+}
+
+.line-12-18 {
+  height: 7px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 7px;
+}
+
+.line-13-18 {
+  height: 7px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 7px;
+}
+
+.library-13 {
+  left: 114px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 387px;
+  white-space: nowrap;
+}
+
+.home-4 {
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 19px;
+  left: 78px;
+  position: absolute;
+  top: 253px;
+  width: 19px;
+}
+
+.book-4 {
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 20px;
+  left: 80px;
+  position: absolute;
+  top: 388px;
+  width: 17px;
+}
+
+.combined-shape-8 {
+  height: 19px;
+  left: 77px;
+  object-fit: cover;
+  position: absolute;
+  top: 517px;
+  width: 20px;
+}
+
+.combined-shape-9 {
+  height: 18px;
+  left: 77px;
+  object-fit: cover;
+  position: absolute;
+  top: 452px;
+  width: 25px;
+}
+
+.bg-5 {
+  height: 1124px;
+  left: 392px;
+  object-fit: cover;
+  position: absolute;
+  top: 28px;
+  width: 550px;
+}
+
+.andreea-wade {
+  display: flex;
+  height: 60px;
+  justify-content: space-between;
+  left: 497px;
+  position: absolute;
+  top: 492px;
+  width: 229px;
+}
+
+.recent-message {
+  left: 497px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 244px;
+  white-space: nowrap;
+}
+
+.bg-6 {
+  background-color: var(--fun-green);
+  border-radius: 10px;
+  box-shadow: 0px 0px 50px #2a59980d;
+  height: 957px;
+  left: 885px;
+  position: absolute;
+  top: 112px;
+  width: 885px;
+}
+
+.type-here {
+  align-items: flex-start;
+  background-color: var(--ebony-clay-2);
+  border: 1px solid;
+  border-color: var(--white);
+  border-radius: 10px;
+  display: flex;
+  height: 130px;
+  left: 915px;
+  min-width: 825px;
+  padding: 24px 29px;
+  position: absolute;
+  top: 909px;
+}
+
+.text-17 {
+  align-items: flex-end;
+  display: flex;
+  height: 25px;
+  margin-top: 5px;
+  min-width: 476px;
+}
+
+.overlap-group1-9 {
+  height: 28px;
+  margin-bottom: -5.5px;
+  position: relative;
+  width: 476px;
+}
+
+.line-27 {
+  height: 20px;
+  left: 473px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.can-you-send-me-the {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 18px;
+  opacity: 0.4;
+  position: absolute;
+  top: 1px;
+  white-space: nowrap;
+}
+
+.smile-face {
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 30px;
+  margin-left: 63px;
+  margin-top: 10px;
+  width: 30px;
+}
+
+.paper-clip {
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 24px;
+  margin-left: 28px;
+  margin-top: 13.0px;
+  width: 26px;
+}
+
+.button {
+  align-items: flex-end;
+  background-color: var(--unmellow-yellow);
+  border-radius: 5px;
+  display: flex;
+  height: 50px;
+  justify-content: flex-end;
+  margin-left: 12px;
+  min-width: 130px;
+  padding: 13px 28.8px;
+}
+
+.text-18 {
+  align-items: flex-end;
+  display: flex;
+  height: 23px;
+  justify-content: space-between;
+  width: 72px;
+}
+
+.sent {
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-bottom: -5.5px;
+  margin-top: 3.5px;
+  white-space: nowrap;
+  width: 37px;
+}
+
+.paper-plane {
+  align-items: flex-end;
+  display: flex;
+  height: 15.57px;
+  margin-bottom: 3.4px;
+  margin-right: 0;
+  min-width: 16.25px;
+  padding: 0.0px 0.0px;
+}
+
+.overlap-group-17 {
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.path-1002 {
+  height: 4px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 3px;
+}
+
+.icon-paper_plane {
+  height: 14px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 16px;
+}
+
+.text-19 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 995px;
+  min-height: 668px;
+  position: absolute;
+  top: 262px;
+  width: 667px;
+}
+
+.sunday-march-17-2021-at-2 {
+  letter-spacing: 0;
+  line-height: 14px;
+  margin-top: 23px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.sunday-march-17-2021-at-245-pm {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 14px;
+  margin-top: 23px;
+  min-height: 22px;
+  min-width: 238px;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.text-5-2 {
+  background-color: var(--black-squeeze);
+  border-radius: 10px;
+  display: flex;
+  height: 64px;
+  margin-top: 10px;
+  width: 404px;
+}
+
+.proin-ac-quam-et-lec {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-bottom: 18px;
+  margin-left: 20px;
+  margin-right: 36px;
+  margin-top: 20px;
+  width: 348px;
+}
+
+.typing-container {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  height: 25px;
+  margin-top: 24px;
+  min-width: 103px;
+  position: relative;
+}
+
+.typing {
+  letter-spacing: 0;
+  line-height: 16px;
+  min-height: 25px;
+  min-width: 55px;
+  white-space: nowrap;
+}
+
+.image-12 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 915px;
+  min-height: 669px;
+  position: absolute;
+  top: 262px;
+  width: 825px;
+}
+
+.line-17 {
+  height: 1px;
+  left: 885px;
+  object-fit: cover;
+  position: absolute;
+  top: 232px;
+  width: 885px;
+}
+
+.elizabeth-holland {
+  display: flex;
+  height: 60px;
+  justify-content: space-between;
+  left: 915px;
+  position: absolute;
+  top: 142px;
+  width: 250px;
+}
+
+.text-20 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-bottom: 4px;
+  margin-top: 1px;
+  width: 177px;
+}
+
+.salome-akinyi {
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: 3.5px;
+  white-space: nowrap;
+  width: 132px;
+}
+
+.hi-did-you-check-the-file {
+  flex: 1;
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 14px;
+  margin-bottom: -5px;
+  margin-right: -2px;
+  max-height: 22px;
+  white-space: nowrap;
+}
+

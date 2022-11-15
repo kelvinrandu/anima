@@ -1,0 +1,50 @@
+.tom-schneider {
+  display: flex;
+  height: 60px;
+  justify-content: space-between;
+  left: 497px;
+  position: absolute;
+  top: 580px;
+  width: 320px;
+}
+
+.group-956 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-bottom: 2px;
+  margin-top: 3px;
+  width: 247px;
+}
+
+.name-4 {
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: 3.5px;
+  white-space: nowrap;
+  width: 139px;
+}
+
+.whats-new-about-the-new-project {
+  flex: 1;
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 14px;
+  margin-bottom: -5px;
+  margin-right: -2px;
+  max-height: 22px;
+  opacity: 0.6;
+  white-space: nowrap;
+}
+
+.tom-schneider.tom-schneider-1,
+.tom-schneider.tom-schneider-2 {
+  left: 550px;
+  top: 930px;
+}
+
+.tom-schneider.tom-schneider-2 .name-4 {
+  width: 84px;
+}
+

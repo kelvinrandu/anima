@@ -1,0 +1,45 @@
+.layer1-1 {
+  align-items: center;
+  display: flex;
+  height: 23px;
+  justify-content: center;
+  left: 735px;
+  min-width: 15px;
+  position: absolute;
+  top: 197px;
+  transform: rotate(90deg);
+}
+
+.path9429 {
+  height: 17px;
+  object-fit: cover;
+  transform: rotate(-90deg);
+  width: 26px;
+}
+
+.layer1-1.layer1-2 {
+  left: unset;
+  margin-bottom: 4.0px;
+  position: unset;
+  top: unset;
+}
+
+.layer1-1.layer1-3 {
+  align-self: flex-end;
+  left: unset;
+  position: unset;
+  top: unset;
+}
+
+.layer1-1.layer1 {
+  left: unset;
+  margin-bottom: 2.41px;
+  position: unset;
+  top: unset;
+}
+
+.layer1-1.layer1-4 {
+  left: 359px;
+  top: 180px;
+}
+

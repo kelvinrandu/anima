@@ -1,0 +1,440 @@
+.user-profile {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 1280px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.overlap-group1-7 {
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1323px;
+  margin-left: -64px;
+  margin-top: -43px;
+  position: relative;
+  width: 1984px;
+}
+
+.rounded-rectangle-1-copy-15-3 {
+  background-color: var(--white);
+  border-radius: 20px;
+  box-shadow: 0px 0px 40px #0001010f;
+  height: 1175px;
+  left: 150px;
+  opacity: 0.62;
+  position: absolute;
+  top: 98px;
+  width: 1741px;
+}
+
+.rectangle-2-copy-15-6 {
+  background-color: var(--swiss-coffee);
+  height: 99px;
+  left: 151px;
+  position: absolute;
+  top: 480px;
+  width: 1741px;
+}
+
+.device-that-you-can-use-3 {
+  background-color: var(--swiss-coffee);
+  height: 84px;
+  left: 151px;
+  position: absolute;
+  top: 299px;
+  width: 1741px;
+}
+
+.group-21-3 {
+  align-items: flex-end;
+  display: flex;
+  height: 28px;
+  left: 207px;
+  min-width: 1054px;
+  position: absolute;
+  top: 418px;
+}
+
+.name {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -6px;
+  min-height: 30px;
+  min-width: 82px;
+  white-space: nowrap;
+}
+
+.baraka-5 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -6px;
+  margin-left: 52px;
+  min-height: 30px;
+  min-width: 73px;
+  white-space: nowrap;
+}
+
+.amayi {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -6px;
+  margin-left: 89px;
+  min-height: 30px;
+  min-width: 66px;
+  white-space: nowrap;
+}
+
+.date-2 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -6px;
+  margin-left: 65px;
+  min-height: 30px;
+  min-width: 102px;
+  white-space: nowrap;
+}
+
+.male {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -6px;
+  margin-left: 34px;
+  min-height: 30px;
+  min-width: 50px;
+  white-space: nowrap;
+}
+
+.name-1 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -6px;
+  margin-left: 96px;
+  min-height: 30px;
+  min-width: 64px;
+  white-space: nowrap;
+}
+
+.place-1 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -6px;
+  margin-left: 84px;
+  min-height: 30px;
+  min-width: 73px;
+  white-space: nowrap;
+}
+
+.place-2 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -6px;
+  margin-left: 51px;
+  min-height: 30px;
+  min-width: 73px;
+  white-space: nowrap;
+}
+
+.rectangle-2-copy-15-7 {
+  background-color: var(--swiss-coffee);
+  height: 99px;
+  left: 150px;
+  position: absolute;
+  top: 684px;
+  width: 1741px;
+}
+
+.baraka-timothy-user-profile {
+  left: 339px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 170px;
+  white-space: nowrap;
+}
+
+.group-25-1 {
+  align-items: center;
+  display: flex;
+  height: 58px;
+  left: 211px;
+  min-width: 1628px;
+  position: absolute;
+  top: 312px;
+}
+
+.firstname {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -11px;
+  min-height: 60px;
+  min-width: 64px;
+  white-space: nowrap;
+}
+
+.surname {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 66px;
+  margin-top: 6.0px;
+  min-height: 30px;
+  min-width: 96px;
+  white-space: nowrap;
+}
+
+.othername {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -11px;
+  margin-left: 66px;
+  min-height: 60px;
+  min-width: 64px;
+  white-space: nowrap;
+}
+
+.date-ofbirth {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -11px;
+  margin-left: 66px;
+  min-height: 60px;
+  min-width: 74px;
+  white-space: nowrap;
+}
+
+.gender {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 66px;
+  margin-top: 14.0px;
+  min-height: 30px;
+  min-width: 77px;
+  white-space: nowrap;
+}
+
+.country {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 66px;
+  margin-top: 6.0px;
+  min-height: 30px;
+  min-width: 84px;
+  white-space: nowrap;
+}
+
+.state {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 66px;
+  margin-top: 6.0px;
+  min-height: 30px;
+  min-width: 56px;
+  white-space: nowrap;
+}
+
+.city {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 66px;
+  margin-top: 6.0px;
+  min-height: 30px;
+  min-width: 43px;
+  white-space: nowrap;
+}
+
+.approve-3 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 519px;
+  margin-top: 8.0px;
+  min-height: 30px;
+  min-width: 89px;
+  white-space: nowrap;
+}
+
+.group-27-2 {
+  align-items: flex-end;
+  display: flex;
+  gap: 67px;
+  height: 29px;
+  left: 209px;
+  min-width: 1429px;
+  position: absolute;
+  top: 508px;
+}
+
+.institution-8 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -5px;
+  min-height: 30px;
+  min-width: 105px;
+  white-space: nowrap;
+}
+
+.area-of-study-3 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -6px;
+  min-height: 30px;
+  min-width: 138px;
+  white-space: nowrap;
+}
+
+.grade-score-1 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -6px;
+  min-height: 30px;
+  min-width: 132px;
+  white-space: nowrap;
+}
+
+.level-of-study-3 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -5px;
+  min-height: 30px;
+  min-width: 141px;
+  white-space: nowrap;
+}
+
+.specific-certificate-1 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -5px;
+  min-height: 30px;
+  min-width: 194px;
+  white-space: nowrap;
+}
+
+.major-speciality-3 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -5px;
+  min-height: 30px;
+  min-width: 170px;
+  white-space: nowrap;
+}
+
+.mode-of-study-1 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -5px;
+  min-height: 30px;
+  min-width: 147px;
+  white-space: nowrap;
+}
+
+.rectangle-2-copy-15-8 {
+  background-color: var(--swiss-coffee);
+  height: 99px;
+  left: 151px;
+  position: absolute;
+  top: 896px;
+  width: 1741px;
+}
+
+.rectangle-2-copy-15-9 {
+  background-color: var(--swiss-coffee);
+  height: 99px;
+  left: 150px;
+  position: absolute;
+  top: 1098px;
+  width: 1741px;
+}
+
+.name-ofcompany-1 {
+  left: 207px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 712px;
+  white-space: nowrap;
+}
+
+.position-1 {
+  left: 378px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 721px;
+  white-space: nowrap;
+}
+
+.place-3 {
+  left: 583px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 721px;
+  white-space: nowrap;
+}
+
+.field-of-practice-1 {
+  left: 782px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 720px;
+  white-space: nowrap;
+}
+
+.reporting-to-1 {
+  left: 990px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 720px;
+  white-space: nowrap;
+}
+
+.location-1 {
+  left: 1251px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 720px;
+  white-space: nowrap;
+}
+
+.start-end-date-1 {
+  left: 1490px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 713px;
+  white-space: nowrap;
+}
+
+.ddmmyear-3 {
+  left: 1490px;
+  letter-spacing: 0;
+  line-height: 10px;
+  position: absolute;
+  top: 746px;
+  white-space: nowrap;
+}
+
+.date-3 {
+  left: 1245px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 1020px;
+  white-space: nowrap;
+}
+
+.acts_logo-12 {
+  height: 133px;
+  left: 1684px;
+  object-fit: cover;
+  position: absolute;
+  top: 130px;
+  width: 186px;
+}
+

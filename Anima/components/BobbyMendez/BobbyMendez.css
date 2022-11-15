@@ -1,0 +1,52 @@
+.bobby-mendez {
+  display: flex;
+  height: 60px;
+  justify-content: space-between;
+  left: 497px;
+  position: absolute;
+  top: 668px;
+  width: 216px;
+}
+
+.text-22 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-bottom: 2px;
+  margin-top: 3px;
+  width: 143px;
+}
+
+.name-2 {
+  flex: 1;
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-right: 7px;
+  margin-top: 3.5px;
+  max-height: 27px;
+  white-space: nowrap;
+}
+
+.i-will-check-it-tonight {
+  flex: 1;
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 14px;
+  margin-bottom: -5px;
+  margin-right: -2px;
+  max-height: 22px;
+  opacity: 0.6;
+  white-space: nowrap;
+}
+
+.bobby-mendez.bobby-mendez-1,
+.bobby-mendez.bobby-mendez-2 {
+  left: 550px;
+  top: 1020px;
+}
+
+.bobby-mendez.bobby-mendez-2 .name-2 {
+  margin-right: unset;
+}
+

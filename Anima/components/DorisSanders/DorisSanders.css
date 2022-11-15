@@ -1,0 +1,156 @@
+.doris-sanders {
+  align-items: flex-start;
+  background-color: var(--black);
+  border-radius: 10px;
+  box-shadow: 10px 10px 40px #2a59980d;
+  display: flex;
+  flex-direction: column;
+  margin-top: 0;
+  min-height: 363px;
+  padding: 22px 0;
+  position: relative;
+  width: 330px;
+}
+
+.flex-row-32 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  gap: 157px;
+  height: 108px;
+  margin-right: 8.0px;
+  min-width: 262px;
+  position: relative;
+}
+
+.text-8 {
+  align-items: flex-end;
+  display: flex;
+  gap: 3px;
+  height: 53px;
+  margin-left: 30px;
+  margin-top: 15px;
+  min-width: 117px;
+}
+
+.flex-col-4 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  margin-bottom: -5px;
+  min-height: 54px;
+  width: 81px;
+}
+
+.baraka-1 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-right: 1px;
+  min-height: 30px;
+  min-width: 80px;
+  white-space: nowrap;
+}
+
+.student-at {
+  letter-spacing: 0;
+  line-height: 14px;
+  min-height: 22px;
+  min-width: 75px;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.acts {
+  letter-spacing: 0;
+  line-height: 14px;
+  margin-bottom: -5px;
+  min-height: 22px;
+  min-width: 33px;
+  white-space: nowrap;
+}
+
+.email {
+  align-items: flex-end;
+  display: flex;
+  height: 20px;
+  justify-content: space-between;
+  margin-left: 30px;
+  margin-top: 10px;
+  position: relative;
+  width: 158px;
+}
+
+.barakaactscom {
+  letter-spacing: 0;
+  line-height: 14px;
+  margin-bottom: -5px;
+  margin-right: -2px;
+  margin-top: 3px;
+  white-space: nowrap;
+  width: 131px;
+}
+
+.flex-row-33 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  gap: 28px;
+  margin-top: 25px;
+  min-width: 270px;
+}
+
+.message {
+  align-items: flex-end;
+  background-color: var(--eden);
+  border-radius: 5px;
+  display: flex;
+  height: 40px;
+  justify-content: flex-end;
+  min-width: 112px;
+  padding: 2.5px 13px;
+}
+
+.edit-profile {
+  letter-spacing: 0;
+  line-height: 16px;
+  min-height: 25px;
+  min-width: 84px;
+  white-space: nowrap;
+}
+
+.view-profile {
+  align-items: flex-end;
+  background-color: var(--blue-chalk);
+  border-radius: 5px;
+  display: flex;
+  height: 40px;
+  justify-content: flex-end;
+  min-width: 130px;
+  padding: 2.5px 4px;
+}
+
+.update-profile {
+  letter-spacing: 0;
+  line-height: 16px;
+  min-height: 25px;
+  min-width: 114px;
+  white-space: nowrap;
+}
+
+.doris-sanders.doris-sanders-1 {
+  left: 1021px;
+  margin-top: unset;
+  position: absolute;
+  top: 9px;
+}
+
+.doris-sanders.doris-sanders-2 {
+  align-self: flex-end;
+  margin-top: unset;
+}
+
+.doris-sanders.doris-sanders-3 {
+  margin-top: unset;
+}
+

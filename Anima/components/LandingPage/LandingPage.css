@@ -1,0 +1,29 @@
+.landing-page {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 1280px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.overlap-group {
+  align-items: flex-start;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 1321px;
+  justify-content: flex-end;
+  margin-left: -61px;
+  margin-top: -20px;
+  min-width: 1981px;
+  padding: 34px 24.8px;
+  position: relative;
+}
+
+.acts_logo {
+  height: 133px;
+  object-fit: cover;
+  width: 186px;
+}
+

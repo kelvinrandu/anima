@@ -1,0 +1,621 @@
+.wallet-7 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 1280px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.overlap-group6-8 {
+  align-items: flex-start;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  margin-left: -64px;
+  margin-top: -43px;
+  min-height: 1323px;
+  padding: 32px 92px;
+  position: relative;
+  width: 1984px;
+}
+
+.overlap-group-container-31 {
+  align-items: flex-start;
+  display: flex;
+  gap: 34px;
+  height: 1120px;
+  min-width: 1800px;
+}
+
+.overlap-group7-8 {
+  align-items: flex-start;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  min-height: 1120px;
+  padding: 43px 32px;
+  position: relative;
+  width: 400px;
+}
+
+.overlap-group-container-32 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  gap: 14px;
+  height: 59px;
+  margin-right: 0;
+  margin-top: 14px;
+  min-width: 260px;
+}
+
+.path-container-26 {
+  height: 54px;
+  position: relative;
+  width: 72px;
+}
+
+.path-1-34 {
+  height: 54px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 61px;
+}
+
+.path-2-8 {
+  height: 45px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 50px;
+}
+
+.overlap-group10-5 {
+  align-self: flex-end;
+  height: 56px;
+  position: relative;
+  width: 174px;
+}
+
+.new-to-acts-7 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.sign-in-7 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 34px;
+  white-space: nowrap;
+}
+
+.line-container-23 {
+  height: 11px;
+  left: 61px;
+  position: absolute;
+  top: 40px;
+  width: 22px;
+}
+
+.line-11-22 {
+  height: 2px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 22px;
+}
+
+.line-12-22 {
+  height: 7px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 7px;
+}
+
+.line-13-22 {
+  height: 7px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 7px;
+}
+
+.flex-row-84 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  gap: 17px;
+  height: 30px;
+  margin-right: 92.37px;
+  margin-top: 49px;
+  min-width: 151px;
+}
+
+.home-7 {
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 19px;
+  margin-top: 0.33px;
+  width: 19px;
+}
+
+.dashboard-21,
+.study-hub-9,
+.library-17,
+.conferencing-7,
+.community-14 {
+  letter-spacing: 0;
+  line-height: 20px;
+  min-height: 30px;
+  white-space: nowrap;
+}
+
+.flex-row-85 {
+  align-items: flex-start;
+  display: flex;
+  gap: 19px;
+  height: 30px;
+  margin-left: 47px;
+  margin-top: 36px;
+  min-width: 141px;
+  position: relative;
+}
+
+.flex-row-86 {
+  align-items: flex-start;
+  display: flex;
+  gap: 17px;
+  height: 30px;
+  margin-left: 48.42px;
+  margin-top: 38px;
+  min-width: 104px;
+}
+
+.book-7 {
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 20px;
+  margin-top: 1.24px;
+  width: 17px;
+}
+
+.flex-row-87 {
+  align-items: flex-start;
+  display: flex;
+  gap: 14px;
+  height: 30px;
+  margin-left: 44.61px;
+  margin-top: 36px;
+  min-width: 145px;
+}
+
+.combined-shape-14 {
+  height: 18px;
+  object-fit: cover;
+  width: 25px;
+}
+
+.resources-7 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 20px;
+  min-height: 30px;
+  min-width: 106px;
+  white-space: nowrap;
+}
+
+.flex-row-88 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  gap: 19px;
+  height: 30px;
+  margin-right: 69.29px;
+  margin-top: 34px;
+  min-width: 177px;
+}
+
+.combined-shape-15 {
+  height: 19px;
+  margin-top: 0.53px;
+  object-fit: cover;
+  width: 20px;
+}
+
+.flex-row-89 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  gap: 15px;
+  height: 30px;
+  margin-right: 81.64px;
+  margin-top: 34px;
+  min-width: 161px;
+  position: relative;
+}
+
+.flex-row-90 {
+  align-items: flex-start;
+  display: flex;
+  gap: 18px;
+  height: 30px;
+  margin-left: 51.49px;
+  margin-top: 34px;
+  min-width: 113px;
+  position: relative;
+}
+
+.reports-7 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 20px;
+  min-height: 30px;
+  min-width: 79px;
+  white-space: nowrap;
+}
+
+.overlap-group9-7 {
+  align-items: center;
+  align-self: flex-end;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 60px;
+  margin-top: 14px;
+  min-width: 300px;
+  padding: 9.7px 15px;
+  position: relative;
+}
+
+.wallet-8 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 11px;
+  min-height: 30px;
+  min-width: 66px;
+  white-space: nowrap;
+}
+
+.setting-container-6 {
+  align-items: flex-start;
+  display: flex;
+  gap: 14px;
+  height: 32px;
+  margin-left: 48px;
+  margin-top: 22px;
+  min-width: 111px;
+  position: relative;
+}
+
+.setting-7 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 20px;
+  min-height: 30px;
+  min-width: 73px;
+  white-space: nowrap;
+}
+
+.flex-row-91 {
+  align-items: flex-start;
+  display: flex;
+  gap: 12px;
+  height: 33px;
+  margin-left: 51px;
+  margin-top: 32px;
+  min-width: 118px;
+  position: relative;
+}
+
+.support-7 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 20px;
+  min-height: 30px;
+  min-width: 82px;
+  white-space: nowrap;
+}
+
+.image-47 {
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 60px;
+  margin-left: 53px;
+  margin-top: 54px;
+  width: 60px;
+}
+
+.baraka-11 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-left: 53px;
+  margin-top: 16px;
+  min-height: 27px;
+  white-space: nowrap;
+}
+
+.overlap-group8-9 {
+  height: 1102px;
+  position: relative;
+  width: 1366px;
+}
+
+.rounded-rectangle-1-copy-15-5 {
+  background-color: var(--white);
+  border-radius: 20px;
+  box-shadow: 0px 0px 40px #0001010f;
+  height: 1102px;
+  left: 0;
+  opacity: 0.62;
+  position: absolute;
+  top: 0;
+  width: 1365px;
+}
+
+.device-that-you-can-use-7 {
+  background-color: var(--eden);
+  height: 446px;
+  left: 1px;
+  position: absolute;
+  top: 429px;
+  width: 1365px;
+}
+
+.current-balance {
+  left: 35px;
+  letter-spacing: 0;
+  line-height: 45px;
+  position: absolute;
+  top: 462px;
+  white-space: nowrap;
+}
+
+.price {
+  left: 35px;
+  letter-spacing: 0;
+  line-height: 45px;
+  position: absolute;
+  top: 510px;
+  white-space: nowrap;
+}
+
+.path-1002-1 {
+  height: 7px;
+  left: 37px;
+  object-fit: cover;
+  position: absolute;
+  top: 570px;
+  width: 243px;
+}
+
+.never-received-or-fo-19 {
+  left: 37px;
+  letter-spacing: -0.11px;
+  line-height: 20px;
+  position: absolute;
+  top: 592px;
+  white-space: nowrap;
+}
+
+.available-balance {
+  left: 364px;
+  letter-spacing: 0;
+  line-height: 45px;
+  position: absolute;
+  top: 462px;
+  white-space: nowrap;
+}
+
+.price-1 {
+  left: 364px;
+  letter-spacing: 0;
+  line-height: 45px;
+  position: absolute;
+  top: 510px;
+  white-space: nowrap;
+}
+
+.path-1013 {
+  height: 7px;
+  left: 366px;
+  object-fit: cover;
+  position: absolute;
+  top: 570px;
+  width: 243px;
+}
+
+.never-received-or-fo-20 {
+  left: 1116px;
+  letter-spacing: -0.14px;
+  line-height: 27px;
+  position: absolute;
+  top: 490px;
+  white-space: nowrap;
+}
+
+.never-received-or-fo-21 {
+  left: 893px;
+  letter-spacing: -0.14px;
+  line-height: 27px;
+  position: absolute;
+  top: 488px;
+  white-space: nowrap;
+}
+
+.never-received-or-fo-22 {
+  left: 1117px;
+  letter-spacing: -0.14px;
+  line-height: 27px;
+  position: absolute;
+  top: 538px;
+  white-space: nowrap;
+}
+
+.never-received-or-fo-23 {
+  left: 877px;
+  letter-spacing: -0.14px;
+  line-height: 27px;
+  position: absolute;
+  top: 538px;
+  white-space: nowrap;
+}
+
+.mode-of-payment {
+  left: 37px;
+  letter-spacing: 0;
+  line-height: 45px;
+  position: absolute;
+  top: 719px;
+  white-space: nowrap;
+}
+
+.bg-7 {
+  background: linear-gradient(37.63deg, #ffffff 2.55%, #9b8dff 98.02%);
+  border-radius: 20px;
+  height: 164px;
+  left: 363px;
+  position: absolute;
+  top: 665px;
+  width: 132px;
+}
+
+.mastercard-logosvg {
+  height: 80px;
+  left: 375px;
+  object-fit: cover;
+  position: absolute;
+  top: 703px;
+  width: 104px;
+}
+
+.bg-8 {
+  background: linear-gradient(37.63deg, #ffffff 2.55%, #9b8dff 98.02%);
+  border-radius: 20px;
+  height: 164px;
+  left: 504px;
+  position: absolute;
+  top: 665px;
+  width: 132px;
+}
+
+.bg-9 {
+  background: linear-gradient(37.63deg, #ffffff 2.55%, #9b8dff 98.02%);
+  border-radius: 20px;
+  height: 164px;
+  left: 645px;
+  position: absolute;
+  top: 667px;
+  width: 132px;
+}
+
+.bg-10 {
+  background: linear-gradient(37.63deg, #ffffff 2.55%, #9b8dff 98.02%);
+  border-radius: 20px;
+  height: 164px;
+  left: 786px;
+  position: absolute;
+  top: 667px;
+  width: 132px;
+}
+
+.bg-11 {
+  background: linear-gradient(37.63deg, #ffffff 2.55%, #9b8dff 98.02%);
+  border-radius: 20px;
+  height: 164px;
+  left: 927px;
+  position: absolute;
+  top: 665px;
+  width: 132px;
+}
+
+.paypal_png7 {
+  height: 162px;
+  left: 462px;
+  object-fit: cover;
+  position: absolute;
+  top: 659px;
+  width: 216px;
+}
+
+.maestro_2016svg {
+  height: 78px;
+  left: 661px;
+  object-fit: cover;
+  position: absolute;
+  top: 711px;
+  width: 100px;
+}
+
+.google-wallet-logo-vector {
+  height: 109px;
+  left: 798px;
+  object-fit: cover;
+  position: absolute;
+  top: 695px;
+  width: 109px;
+}
+
+.rectangle-44-1 {
+  background-color: var(--white);
+  border-radius: 7px;
+  height: 50px;
+  left: 1103px;
+  position: absolute;
+  top: 724px;
+  width: 232px;
+}
+
+.mpesa-global {
+  left: 1132px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 740px;
+  white-space: nowrap;
+}
+
+.polygon-2 {
+  height: 12px;
+  left: 1305px;
+  object-fit: cover;
+  position: absolute;
+  top: 744px;
+  width: 17px;
+}
+
+.mobile-money {
+  left: 1103px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 694px;
+  white-space: nowrap;
+}
+
+.acts_logo-13 {
+  height: 126px;
+  left: 1158px;
+  object-fit: cover;
+  position: absolute;
+  top: 937px;
+  width: 177px;
+}
+

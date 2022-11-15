@@ -1,0 +1,30 @@
+.group-2 {
+  display: flex;
+  height: 13px;
+  margin-top: 2.29px;
+  width: 24px;
+}
+
+.group-3 {
+  display: flex;
+  flex: 1;
+  justify-content: space-between;
+  position: relative;
+  width: 23.78px;
+}
+
+.group-2.group-2-4 {
+  left: 79px;
+  margin-top: unset;
+  position: absolute;
+  top: 583px;
+}
+
+.group-2.group-2-11,
+.group-2.group-2-12 {
+  left: 171px;
+  margin-top: unset;
+  position: absolute;
+  top: 754px;
+}
+

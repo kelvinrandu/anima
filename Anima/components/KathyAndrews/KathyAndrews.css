@@ -1,0 +1,35 @@
+.kathy-andrews {
+  align-items: flex-start;
+  background-color: var(--ebony-clay-2);
+  border-radius: 10px;
+  box-shadow: 10px 10px 40px #2a59980d;
+  display: flex;
+  flex-direction: column;
+  left: 1268px;
+  min-height: 363px;
+  padding: 22px 0;
+  position: absolute;
+  top: 891px;
+  width: 330px;
+}
+
+.flex-row-118 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  gap: 157px;
+  height: 108px;
+  margin-right: 8.0px;
+  min-width: 262px;
+  position: relative;
+}
+
+.kathy-andrews.danielle-meyer {
+  left: 928px;
+  top: 516px;
+}
+
+.kathy-andrews.kathy-andrews-1 {
+  left: 1608px;
+}
+

@@ -1,0 +1,39 @@
+.typing-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 8px;
+  margin-bottom: 6.0px;
+  min-width: 40px;
+}
+
+.ellipse-68 {
+  background-color: var(--suva-gray);
+  border-radius: 4px;
+  height: 8px;
+  width: 8px;
+}
+
+.ellipse-69 {
+  background-color: var(--suva-gray);
+  border-radius: 4px;
+  height: 8px;
+  opacity: 0.5;
+  width: 8px;
+}
+
+.ellipse-70 {
+  background-color: var(--suva-gray);
+  border-radius: 4px;
+  height: 8px;
+  opacity: 0.3;
+  width: 8px;
+}
+
+.typing-1.typing-2 {
+  height: 8px;
+  left: 1201px;
+  margin-bottom: unset;
+  position: absolute;
+  top: 1199px;
+}
+

@@ -1,0 +1,63 @@
+.welcome {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 1280px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.overlap-group-2 {
+  align-items: center;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  margin-left: -20px;
+  margin-top: -13px;
+  min-height: 1307px;
+  padding: 406px 281px;
+  width: 1961px;
+}
+
+.acts_logo-2 {
+  height: 201px;
+  margin-right: 1.0px;
+  object-fit: cover;
+  width: 282px;
+}
+
+.try-premium-13 {
+  align-self: flex-end;
+  display: flex;
+  height: 140px;
+  width: 1398px;
+}
+
+.title {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 100px;
+  margin-bottom: -22px;
+  margin-right: -2px;
+  margin-top: 20px;
+  white-space: nowrap;
+  width: 1398px;
+}
+
+.group-9 {
+  align-items: flex-start;
+  display: flex;
+  gap: 11px;
+  margin-right: 18.0px;
+  min-width: 265px;
+}
+
+.ellipse {
+  background-color: var(--eden);
+  border-radius: 29px;
+  height: 58px;
+  width: 58px;
+}
+

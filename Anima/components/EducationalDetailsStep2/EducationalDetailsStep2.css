@@ -1,0 +1,559 @@
+.educational-details-step2 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1280px;
+  padding: 14px 25px;
+  width: 1920px;
+}
+
+.acts_logo-6 {
+  align-self: flex-start;
+  height: 133px;
+  object-fit: cover;
+  width: 186px;
+}
+
+.flex-col-1 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 23px;
+  margin-right: 59.0px;
+  margin-top: 244px;
+  min-height: 541px;
+  width: 1137px;
+}
+
+.flex-row-15 {
+  align-items: flex-end;
+  display: flex;
+  gap: 18px;
+  height: 460px;
+  min-width: 1137px;
+}
+
+.overlap-group-container-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 42px;
+  min-height: 460px;
+  width: 772px;
+}
+
+.overlap-group3-3 {
+  align-items: flex-start;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  gap: 17px;
+  margin-left: 61px;
+  min-height: 202px;
+  padding: 28px 19px;
+  width: 338px;
+}
+
+.text-4 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  min-height: 72px;
+  width: 126px;
+}
+
+.step-2 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-right: 6px;
+  margin-top: 4px;
+  min-height: 30px;
+  min-width: 64px;
+  white-space: nowrap;
+}
+
+.flex-row-16 {
+  align-items: flex-start;
+  display: flex;
+  gap: 5px;
+  height: 25px;
+  min-width: 126px;
+}
+
+.task-done-1 {
+  letter-spacing: 0;
+  line-height: 16px;
+  min-height: 25px;
+  min-width: 87px;
+  opacity: 0.7;
+  white-space: nowrap;
+}
+
+.text-4-1 {
+  letter-spacing: 0;
+  line-height: 16px;
+  min-height: 25px;
+  opacity: 0.7;
+  white-space: nowrap;
+}
+
+.overlap-group18 {
+  align-items: flex-start;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  min-width: 243px;
+}
+
+.path-1003-1 {
+  height: 7px;
+  object-fit: cover;
+  width: 215px;
+}
+
+.overlap-group5-3 {
+  height: 216px;
+  position: relative;
+  width: 772px;
+}
+
+.rectangle-7 {
+  height: 178px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 26px;
+  width: 467px;
+}
+
+.ridhotijangmailco-12 {
+  left: 134px;
+  letter-spacing: -0.11px;
+  line-height: 20px;
+  position: absolute;
+  top: 94px;
+  white-space: nowrap;
+}
+
+.rectangle-8 {
+  background-color: var(--fun-green);
+  border: 2px solid;
+  border-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 0px 8px 40px #0000000d;
+  height: 58px;
+  left: 60px;
+  position: absolute;
+  top: 158px;
+  width: 347px;
+}
+
+.ridhotijangmailco-13 {
+  left: 134px;
+  letter-spacing: -0.11px;
+  line-height: 20px;
+  position: absolute;
+  top: 175px;
+  white-space: nowrap;
+}
+
+.rectangle-9 {
+  background-color: var(--fun-green);
+  border: 2px solid;
+  border-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 0px 8px 40px #0000000d;
+  height: 58px;
+  left: 425px;
+  position: absolute;
+  top: 78px;
+  width: 347px;
+}
+
+.ridhotijangmailco-14 {
+  left: 499px;
+  letter-spacing: -0.11px;
+  line-height: 20px;
+  position: absolute;
+  top: 94px;
+  white-space: nowrap;
+}
+
+.rectangle-10 {
+  background-color: var(--fun-green);
+  border: 2px solid;
+  border-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 0px 8px 40px #0000000d;
+  height: 58px;
+  left: 425px;
+  position: absolute;
+  top: 158px;
+  width: 347px;
+}
+
+.ridhotijangmailco-15 {
+  left: 499px;
+  letter-spacing: -0.11px;
+  line-height: 20px;
+  position: absolute;
+  top: 175px;
+  white-space: nowrap;
+}
+
+.profile-update-1 {
+  left: 61px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 9px;
+  white-space: nowrap;
+}
+
+.education-details {
+  left: 59px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.overlap-group-container-4 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 203px;
+  width: 347px;
+}
+
+.overlap-group13 {
+  align-items: flex-end;
+  background-color: var(--unmellow-yellow);
+  border-radius: 5px;
+  display: flex;
+  height: 40px;
+  margin-right: 5px;
+  min-width: 112px;
+  padding: 2.5px 15px;
+}
+
+.add-entry {
+  letter-spacing: 0;
+  line-height: 16px;
+  min-height: 25px;
+  min-width: 78px;
+  white-space: nowrap;
+}
+
+.overlap-group2-3 {
+  align-items: center;
+  background-color: var(--fun-green);
+  border: 2px solid;
+  border-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 0px 8px 40px #0000000d;
+  display: flex;
+  height: 58px;
+  margin-top: 24px;
+  min-width: 347px;
+  padding: 0 25px;
+  position: relative;
+}
+
+.ridhotijangmailco-16 {
+  letter-spacing: -0.11px;
+  line-height: 20px;
+  min-height: 29px;
+  min-width: 111px;
+  white-space: nowrap;
+}
+
+.overlap-group14 {
+  border-radius: 33px;
+  height: 23px;
+  margin-bottom: 0.5px;
+  margin-left: 30px;
+  position: relative;
+  width: 118px;
+}
+
+.never-received-or-fo-11 {
+  color: var(--black);
+  font-family: var(--font-family-sfprotext-regular);
+  font-size: var(--font-size-xxs);
+  left: 51px;
+  letter-spacing: -0.07px;
+  line-height: 14px;
+  position: absolute;
+  top: 2px;
+  white-space: nowrap;
+}
+
+.overlap-group11 {
+  align-items: center;
+  background-color: var(--fun-green);
+  border: 2px solid;
+  border-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 0px 8px 40px #0000000d;
+  display: flex;
+  height: 58px;
+  margin-top: 23px;
+  min-width: 347px;
+  padding: 0 72px;
+}
+
+.ridhotijangmailco-17 {
+  letter-spacing: -0.11px;
+  line-height: 20px;
+  min-height: 29px;
+  min-width: 143px;
+  white-space: nowrap;
+}
+
+.overlap-group-container-5 {
+  align-items: flex-start;
+  display: flex;
+  gap: 18px;
+  min-width: 1077px;
+}
+
+.overlap-group7-2 {
+  align-items: center;
+  background-color: var(--fun-green);
+  border: 2px solid;
+  border-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 0px 8px 40px #0000000d;
+  display: flex;
+  gap: 122px;
+  height: 58px;
+  justify-content: flex-end;
+  min-width: 347px;
+  padding: 11.5px 48.0px;
+  position: relative;
+}
+
+.x-5 {
+  align-self: flex-end;
+  letter-spacing: -0.11px;
+  line-height: 20px;
+  min-height: 29px;
+  min-width: 89px;
+  white-space: nowrap;
+}
+
+.overlap-group6-2 {
+  align-items: center;
+  background-color: var(--fun-green);
+  border: 2px solid;
+  border-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 0px 8px 40px #0000000d;
+  display: flex;
+  gap: 144px;
+  height: 58px;
+  justify-content: flex-end;
+  min-width: 347px;
+  padding: 11.5px 34.0px;
+  position: relative;
+}
+
+.x-6 {
+  align-self: flex-end;
+  letter-spacing: -0.11px;
+  line-height: 20px;
+  min-height: 29px;
+  min-width: 81px;
+  white-space: nowrap;
+}
+
+.overlap-group9-2 {
+  align-items: center;
+  background-color: var(--fun-green);
+  border: 2px solid;
+  border-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 0px 8px 40px #0000000d;
+  display: flex;
+  gap: 92px;
+  height: 58px;
+  justify-content: flex-end;
+  min-width: 347px;
+  padding: 11.5px 41.5px;
+  position: relative;
+}
+
+.x-7 {
+  align-self: flex-end;
+  letter-spacing: -0.11px;
+  line-height: 20px;
+  min-height: 29px;
+  min-width: 130px;
+  white-space: nowrap;
+}
+
+.overlap-group-container-6 {
+  align-items: flex-end;
+  display: flex;
+  height: 61px;
+  margin-right: 3.0px;
+  margin-top: 23px;
+  min-width: 1073px;
+}
+
+.overlap-group4-5 {
+  align-items: flex-end;
+  background-color: var(--fun-green);
+  border: 2px solid;
+  border-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 0px 8px 40px #0000000d;
+  display: flex;
+  gap: 16px;
+  height: 58px;
+  min-width: 347px;
+  padding: 13.5px 25.0px;
+}
+
+.overlap-group15 {
+  height: 24px;
+  margin-bottom: 1.0px;
+  position: relative;
+  width: 118px;
+}
+
+.never-received-or-fo-10 {
+  left: 39px;
+  letter-spacing: -0.07px;
+  line-height: 14px;
+  position: absolute;
+  top: 3px;
+  white-space: nowrap;
+}
+
+.x-8 {
+  letter-spacing: -0.11px;
+  line-height: 20px;
+  min-height: 29px;
+  min-width: 90px;
+  white-space: nowrap;
+}
+
+.overlap-group10 {
+  align-items: center;
+  background-color: var(--fun-green);
+  border: 2px solid;
+  border-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 0px 8px 40px #0000000d;
+  display: flex;
+  gap: 9px;
+  height: 58px;
+  margin-left: 18px;
+  min-width: 347px;
+  padding: 13.5px 32.0px;
+}
+
+.overlap-group16 {
+  height: 24px;
+  margin-top: 2.5px;
+  position: relative;
+  width: 118px;
+}
+
+.x-9 {
+  align-self: flex-end;
+  letter-spacing: -0.11px;
+  line-height: 20px;
+  min-height: 29px;
+  min-width: 86px;
+  white-space: nowrap;
+}
+
+.overlap-group1-2 {
+  align-items: flex-start;
+  align-self: flex-start;
+  background-color: var(--fun-green);
+  border: 2px solid;
+  border-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 0px 8px 40px #0000000d;
+  display: flex;
+  gap: 17px;
+  height: 58px;
+  margin-left: 14px;
+  min-width: 347px;
+  padding: 13.5px 24.0px;
+}
+
+.overlap-group17 {
+  align-self: center;
+  height: 24px;
+  margin-bottom: 1.5px;
+  position: relative;
+  width: 118px;
+}
+
+.x-10 {
+  letter-spacing: -0.11px;
+  line-height: 20px;
+  min-height: 29px;
+  white-space: nowrap;
+}
+
+.overlap-group-container-7 {
+  align-items: flex-start;
+  display: flex;
+  gap: 15px;
+  margin-left: 621.0px;
+  margin-top: 52px;
+  min-width: 455px;
+}
+
+.overlap-group8-2 {
+  height: 44px;
+  position: relative;
+  width: 220px;
+}
+
+.group-11 {
+  background-color: var(--canary);
+  border-radius: 33px;
+  box-shadow: 0px 8px 40px #0000000d;
+  height: 43px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 220px;
+}
+
+.never-received-or-fo-12 {
+  left: 59px;
+  letter-spacing: -0.14px;
+  line-height: 27px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.overlap-group12 {
+  border-radius: 33px;
+  height: 43px;
+  position: relative;
+  width: 220px;
+}
+
+.never-received-or-fo-13 {
+  left: 72px;
+  letter-spacing: -0.14px;
+  line-height: 27px;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+}
+

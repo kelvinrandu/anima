@@ -1,0 +1,64 @@
+.main-menu {
+  align-items: flex-end;
+  display: flex;
+  height: 25px;
+  justify-content: space-between;
+  margin-left: 0;
+  margin-top: 62px;
+  width: 156px;
+}
+
+.main-menu-1 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: -5.5px;
+  margin-top: 3.5px;
+  white-space: nowrap;
+  width: 100px;
+}
+
+.line-3 {
+  height: 1px;
+  margin-bottom: -0.5px;
+  object-fit: cover;
+  width: 43px;
+}
+
+.main-menu.main-menu-2 {
+  margin-left: 31px;
+}
+
+.main-menu.main-menu-4,
+.main-menu.main-menu-6 {
+  margin-left: 32px;
+}
+
+.main-menu.main-menu-8 {
+  left: 70px;
+  margin-left: unset;
+  margin-top: unset;
+  position: absolute;
+  top: 179px;
+}
+
+.main-menu.main-menu-10,
+.main-menu.main-menu-12 {
+  margin-left: 24px;
+}
+
+.main-menu.main-menu-14,
+.main-menu.main-menu-16,
+.main-menu.main-menu-18,
+.main-menu.main-menu-20 {
+  margin-left: 38px;
+}
+
+.main-menu.main-menu-22,
+.main-menu.main-menu-24 {
+  left: 162px;
+  margin-left: unset;
+  margin-top: unset;
+  position: absolute;
+  top: 350px;
+}
+

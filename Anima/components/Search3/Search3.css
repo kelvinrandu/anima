@@ -1,0 +1,54 @@
+.search-35 {
+  align-items: center;
+  background-color: var(--eden);
+  border: 1px solid;
+  border-color: var(--french-gray);
+  border-radius: 5px;
+  display: flex;
+  gap: 115px;
+  height: 60px;
+  left: 115px;
+  min-width: 840px;
+  padding: 11px 19.0px;
+  position: absolute;
+  top: 167px;
+}
+
+.search-36 {
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 19px;
+  margin-bottom: 1.49px;
+  width: 19px;
+}
+
+.search-37 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 20px;
+  min-height: 30px;
+  min-width: 72px;
+  white-space: nowrap;
+}
+
+.search-35.search-38,
+.search-35.search-41 {
+  left: unset;
+  position: unset;
+  top: unset;
+}
+
+.search-35.search-44,
+.search-35.search-50 {
+  left: unset;
+  margin-left: 86px;
+  margin-top: 31px;
+  position: unset;
+  top: unset;
+}
+
+.search-35.search-47 {
+  left: 51px;
+  top: 124px;
+}
+

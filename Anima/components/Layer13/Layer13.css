@@ -1,0 +1,27 @@
+.layer1-7 {
+  align-items: center;
+  display: flex;
+  height: 16px;
+  justify-content: center;
+  margin-bottom: 0.05px;
+  margin-left: 125px;
+  min-width: 10px;
+  transform: rotate(90deg);
+}
+
+.path9429-3 {
+  height: 11px;
+  object-fit: cover;
+  transform: rotate(-90deg);
+  width: 18px;
+}
+
+.layer1-7.layer1-11,
+.layer1-7.layer1-12 {
+  left: 391px;
+  margin-bottom: unset;
+  margin-left: unset;
+  position: absolute;
+  top: 753px;
+}
+
